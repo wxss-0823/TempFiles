@@ -1,4 +1,4 @@
-## DTRU 更新版本
+## DTRU 璧傜湁鑴ㄨ剹鎺冲繖鍗ゆ埉
 serverip@ 192.168.114.23
 cd /app
 dow dtru_flash_20241106.txz
@@ -6,7 +6,7 @@ rm -rf /mnt/flash/*
 tar -xJvf dtru_flash_20241106.txz -C /
 hwb
 
-## B3N41 更新版本
+## B3N41 璧傜湁鑴ㄨ剹鎺冲繖鍗ゆ埉
 ifconfig eth0 192.168.144.23
 
 serverip@ 192.168.144.23
