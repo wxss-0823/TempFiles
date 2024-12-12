@@ -1,2 +1,2 @@
-# CompanyBackup
-This is a backup repo for some company files.
+# TempFilesBackeup
+This is a backup repo for some temp files.
