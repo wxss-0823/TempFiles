@@ -2,3 +2,5 @@
 timestamp=$(date "+%a %b %d %H:%M:%S %Y")
 
 echo $timestamp >> timestamp.txt
+
+tail -n 1 timestamp.txt
