@@ -10,9 +10,10 @@ ir_kill
 
 
 ### 3°¢Õ¯∑÷≤‚ ‘
-
-root
-root
+cli carr_inactivate 0
+cli carr_inactivate 1
+cli carr_inactivate 2
+cli carr_inactivate 3
 cli write_fpgareg 0x25 0x0
 cli write_fpgareg 0x26 0x0
 cli write_fpgareg 0x27 0x0
@@ -29,6 +30,8 @@ cli AdrvSetRxTxEnable 0 0x40 0
 
 
 ### 4°¢∆µ∆◊“«≤‚ ‘
+root
+root
 cli carr_inactivate 0
 cli carr_inactivate 1
 cli carr_inactivate 2
@@ -55,24 +58,42 @@ cli write_fpgareg 0xd5e 0xf
 cli AdrvSetTxTestTone 0 1 1 -85 1
 cli AdrvSetTxTestTone 0 1 1 -65 1
 cli AdrvSetTxTestTone 0 1 1 -45 1
-cli AdrvSetTxTestTone 0 1 1 -60 1
-cli AdrvSetTxTestTone 0 1 1 -60 1
-cli AdrvSetTxTestTone 0 1 1 -60 1
-cli AdrvSetTxTestTone 0 1 1 -60 1
-cli AdrvSetTxTestTone 0 1 1 -60 1
-cli AdrvSetTxTestTone 0 1 1 -60 1
+cli AdrvSetTxTestTone 0 1 1 -25 1
+cli AdrvSetTxTestTone 0 1 1 -5 1
+cli AdrvSetTxTestTone 0 1 1 15 1
+cli AdrvSetTxTestTone 0 1 1 35 1
+cli AdrvSetTxTestTone 0 1 1 55 1
+cli AdrvSetTxTestTone 0 1 1 75 1
 
 ## trx2 ∞·∆µ
-cli AdrvSetTxTestTone 0 2 1 -60 1
+cli AdrvSetTxTestTone 0 2 1 -85 1
+cli AdrvSetTxTestTone 0 2 1 -65 1
+cli AdrvSetTxTestTone 0 2 1 -45 1
+cli AdrvSetTxTestTone 0 2 1 -25 1
+cli AdrvSetTxTestTone 0 2 1 -5 1
+cli AdrvSetTxTestTone 0 2 1 15 1
+cli AdrvSetTxTestTone 0 2 1 35 1
+cli AdrvSetTxTestTone 0 2 1 55 1
+cli AdrvSetTxTestTone 0 2 1 75 1
 
 ## trx3 ∞·∆µ
-cli AdrvSetTxTestTone 0 4 1 57.5 1
+cli AdrvSetTxTestTone 0 4 1 53 1
+cli AdrvSetTxTestTone 0 4 1 58 1
+cli AdrvSetTxTestTone 0 4 1 63 1
+cli AdrvSetTxTestTone 0 4 1 68 1
+cli AdrvSetTxTestTone 0 4 1 73 1
+cli AdrvSetTxTestTone 0 4 1 78 1
 
 ## trx4 ∞·∆µ
-cli AdrvSetTxTestTone 0 8 1 57.5 1
+cli AdrvSetTxTestTone 0 8 1 53 1
+cli AdrvSetTxTestTone 0 8 1 58 1
+cli AdrvSetTxTestTone 0 8 1 63 1
+cli AdrvSetTxTestTone 0 8 1 68 1
+cli AdrvSetTxTestTone 0 8 1 73 1
+cli AdrvSetTxTestTone 0 8 1 78 1
 
 
-### 5°¢–≈∫≈‘¥≤‚ ‘	
+### 5°¢–≈∫≈‘¥≤‚ ‘
 cli carr_inactivate 0
 cli carr_inactivate 1
 cli carr_inactivate 2

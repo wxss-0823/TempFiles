@@ -26,9 +26,9 @@ cli
 admin
 lmk_inchannelconfig 0
 set_rx1freq 255000000
-set_rx2freq 257000000
+set_rx2freq 255000000
 set_rx3freq 255000000
-set_rx4freq 257000000
+set_rx4freq 253000000
 set_tx1freq 310000000
 
 
@@ -67,9 +67,3 @@ write_txdvga 2
 powercalc 0 1000000
 write_fbdvga 7
 powercalctxfb 14 1000000
-
-
-cd mnt/flash/patch/bin/
-mv dtru_fpga.gew.bin dtru_fpga.gew.bbk
-dow dtru_fpga.gew2.bin
-mv dtru_fpga.gew2.bin dtru_fpga.gew.bin
