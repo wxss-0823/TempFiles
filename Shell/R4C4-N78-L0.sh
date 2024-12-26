@@ -4,15 +4,27 @@ admin
 ir_kill
 cli
 admin
+write_clkreg 0xc73d 0x12 
+write_clkreg 0xc7bd 0x12 
+
+cd /tmp
+dow R4C4-N78-L0-eeprom.sh
+dos2unix R4C4-N78-L0-eeprom.sh
+chmod 777 R4C4-N78-L0-eeprom.sh
+./R4C4-N78-L0-eeprom.sh
+
+# Íø·Ö²âÊÔ
+
+write_fpgareg 0x25 0
+write_fpgareg 0x26 0
+write_fpgareg 0x27 0
+write_fpgareg 0x28 0
+write_fpgareg 0x29 0
 
 
-# ç½‘åˆ†æµ‹è¯•
 AdrvSetRxTxEnable 0 0x5f 0xf
-write_fpgareg 0xd60 0x5
-write_fpgareg 0xd61 0x5
-write_fpgareg 0xd62 0x5
-write_fpgareg 0xd5e 0x5
-# 1 ä¸‹è¡Œ 2 ä¸Šè¡Œ
+
+# 1 ÏÂĞĞ 2 ÉÏĞĞ
 set_pa_mode 0 0 1
 set_pa_mode 0 0 2
 set_pa_mode 0 1 1
@@ -23,8 +35,8 @@ set_pa_mode 0 3 1
 set_pa_mode 0 3 2
 
 
-# é¢‘è°±æµ‹è¯•
-# é€šé“0é…ç½®
+# ÆµÆ×²âÊÔ
+# Í¨µÀ 0 ÅäÖÃ
 set_power_control_enable 0
 carr_inactivate 0
 carr_inactivate 1
@@ -34,9 +46,18 @@ carr_cfg 0 0 2 100 1 3550 3550 46 5 1 0.7 0.7 6 4 4
 carr_activate 0
 set_power_control_enable 1
 set_tx_att 0 10000
-AdrvSetTxTestTone 0 1 1 -60 1
+AdrvSetTxTestTone 0 1 1 -100 0
+set_pa_mode 0 0 1
 
-# é€šé“1é…ç½®
+AdrvSetTxTestTone 0 1 1 -245 0
+AdrvSetTxTestTone 0 1 1 -200 0
+AdrvSetTxTestTone 0 1 1 -150 0
+AdrvSetTxTestTone 0 1 1 -100 0
+AdrvSetTxTestTone 0 1 1 -50 0
+AdrvSetTxTestTone 0 1 1 1 0
+AdrvSetTxTestTone 0 1 1 50 0
+
+# Í¨µÀ 1 ÅäÖÃ
 set_power_control_enable 0
 carr_inactivate 0
 carr_inactivate 1
@@ -46,9 +67,18 @@ carr_cfg 1 0 2 100 1 3550 3550 46 5 1 0.7 0.7 6 4 4
 carr_activate 1
 set_power_control_enable 1
 set_tx_att 1 10000
-cli AdrvSetTxTestTone 0 2 1 -60 1
+AdrvSetTxTestTone 0 2 1 -100 0
+set_pa_mode 0 1 1
 
-# é€šé“2é…ç½®
+AdrvSetTxTestTone 0 2 1 -245 0
+AdrvSetTxTestTone 0 2 1 -200 0
+AdrvSetTxTestTone 0 2 1 -150 0
+AdrvSetTxTestTone 0 2 1 -100 0
+AdrvSetTxTestTone 0 2 1 -50 0
+AdrvSetTxTestTone 0 2 1 1 0
+AdrvSetTxTestTone 0 2 1 50 0
+
+# Í¨µÀ 2 ÅäÖÃ
 set_power_control_enable 0
 carr_inactivate 0
 carr_inactivate 1
@@ -58,9 +88,18 @@ carr_cfg 2 0 2 100 1 3550 3550 46 5 1 0.7 0.7 6 4 4
 carr_activate 2
 set_power_control_enable 1
 set_tx_att 2 10000
-cli AdrvSetTxTestTone 0 4 1 57.5 1
+AdrvSetTxTestTone 0 4 1 -100 0
+set_pa_mode 0 2 1
 
-# é€šé“3é…ç½®
+AdrvSetTxTestTone 0 4 1 -245 0
+AdrvSetTxTestTone 0 4 1 -200 0
+AdrvSetTxTestTone 0 4 1 -150 0
+AdrvSetTxTestTone 0 4 1 -100 0
+AdrvSetTxTestTone 0 4 1 -50 0
+AdrvSetTxTestTone 0 4 1 1 0
+AdrvSetTxTestTone 0 4 1 50 0
+
+# Í¨µÀ 3 ÅäÖÃ
 set_power_control_enable 0
 carr_inactivate 0
 carr_inactivate 1
@@ -70,19 +109,63 @@ carr_cfg 3 0 2 100 1 3550 3550 46 5 1 0.7 0.7 6 4 4
 carr_activate 3
 set_power_control_enable 1
 set_tx_att 3 10000
-cli AdrvSetTxTestTone 0 8 1 57.5 1
+AdrvSetTxTestTone 0 8 1 -100 0
+set_pa_mode 0 3 1
+
+AdrvSetTxTestTone 0 8 1 -245 0
+AdrvSetTxTestTone 0 8 1 -200 0
+AdrvSetTxTestTone 0 8 1 -150 0
+AdrvSetTxTestTone 0 8 1 -100 0
+AdrvSetTxTestTone 0 8 1 -50 0
+AdrvSetTxTestTone 0 8 1 1 0
+AdrvSetTxTestTone 0 8 1 50 0
 
 
-# ä¿¡å·æºæµ‹è¯•
-set_rx_att 0 10000
+# ĞÅºÅÔ´²âÊÔ
+set_power_control_enable 0
+carr_inactivate 0
+carr_inactivate 1
+carr_inactivate 2
+carr_inactivate 3
+carr_cfg 0 0 2 100 1 3550 3550 46 5 1 0.7 0.7 6 4 4
+carr_activate 0
+carr_activate 1
+carr_activate 2
+carr_activate 3
+set_power_control_enable 1
+set_tx_att 0 10000
 set_rx_att 1 10000
 set_rx_att 2 10000
 set_rx_att 3 10000
+set_pa_mode 0 0 1
+set_pa_mode 0 1 2
+set_pa_mode 0 2 2
+set_pa_mode 0 3 2
+
+AdrvSetTxTestTone 0 1 1 -50 0
+rssi
+AdrvSetTxTestTone 0 1 1 1 0
+rssi
+AdrvSetTxTestTone 0 1 1 50 0
+rssi
 
 set_fb_att 0 10000
 set_fb_att 2 10000
+AdrvSetRxTxEnable 0 0x10 0
+AdrvGetRxDecPower 0 0x10
+AdrvSetRxTxEnable 0 0x40 0
+AdrvGetRxDecPower 0 0x40
 
 
-tx att 10 dig -18dbfs  -8dbm æ­£è´Ÿ1
 
-tx att 8  dig -15dbfs  -3dbm
+tx att 10 dig -18dbfs  -7.5dbm Õı¸º0.5
+
+
+# µÚÒ»¸ö²ÎÊı¹Ì¶¨ 0
+# µÚ¶ş¸ö²ÎÊıÎªÍ¨µÀ 1248 ±íÊ¾ 4 ¸öÍ¨µÀ
+# µÚÈı¸ö²ÎÊıÎªÊ¹ÄÜ 1 Ê¹ÄÜ 0 ¹Ø±Õ
+# µÚËÄ¸ö²ÎÊıÎªÆ«ÒÆÅäÖÃÆµµã£¬Ò»°ã 1M
+# µÚÎå¸ö²ÎÊı±íÊ¾·¢Éäµ¥Òô¹¦ÂÊ 0 ±íÊ¾ -18 dbfs delta = 6 db
+
+# Êä³ö±¨´íĞÅÏ¢
+std_print_here
