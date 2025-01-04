@@ -245,7 +245,7 @@ cli write_eepromreg 0x0701 0xF4
 #TX1_init_att:1500(1/100dB)
 cli write_eepromreg 0x0702 0x05
 cli write_eepromreg 0x0703 0xdc
-#TX1_nom_gain:6100(1/100dB)ги46+15)
+#TX1_nom_gain:6100(1/100dB)я╝И46+15)
 cli write_eepromreg 0x0704 0x17
 cli write_eepromreg 0x0705 0xd4
 #TX1_dBfs_power:-1500(1/100dBfs)

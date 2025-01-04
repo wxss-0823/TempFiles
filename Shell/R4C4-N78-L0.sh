@@ -26,12 +26,13 @@ AdrvSetRxTxEnable 0 0x5f 0xf
 
 # 1 下行 2 上行
 set_pa_mode 0 0 1
-set_pa_mode 0 0 2
 set_pa_mode 0 1 1
-set_pa_mode 0 1 2
 set_pa_mode 0 2 1
-set_pa_mode 0 2 2
 set_pa_mode 0 3 1
+
+set_pa_mode 0 0 2
+set_pa_mode 0 1 2
+set_pa_mode 0 2 2
 set_pa_mode 0 3 2
 
 
