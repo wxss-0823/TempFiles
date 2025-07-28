@@ -1,17 +1,21 @@
 [Macros_1]
+SubRep=DTRU36-X1
+ImgNum=41
+
+[Macros_2]
 SubRep=R2C6-N28-D
 ImgNum=41
 cli=12:0:0:cli|258:13:1835009:RETURN|0:0:0:SLEEPEQUAL1200|12:0:0:admin|258:13:1835009:RETURN|0:0:0:SLEEPEQUAL1200|
-FB1=12:0:0:set_fb_att 0 13000write_fpgareg 0x5C 0x0AdrvSetTxToOrxMapping 0 0x20 1AdrvSetRxTxEnable 0 0x20 1AdrvGetRxDecPower 0 0x20|258:13:1835009:RETURN|0:0:0:SLEEPEQUAL1200|
-FB2=12:0:0:set_fb_att 1 13000write_fpgareg 0x5C 0x1AdrvSetTxToOrxMapping 0 0x10 2AdrvSetRxTxEnable 0 0x10 2AdrvGetRxDecPower 0 0x10|
+FB1=12:0:0:set_fb_att 0 13000
+FB2=12:0:0:set_fb_att 1 13000
 Login=12:0:0:root|258:13:1835009:RETURN|0:0:0:SLEEPEQUAL1200|12:0:0:root|258:13:1835009:RETURN|0:0:0:SLEEPEQUAL1200|
-Preliminary Operation=12:0:0:cli AdrvSetTxRadioCtrlCfg 0 1 1cli AdrvSetTxRadioCtrlCfg 0 2 1cli AdrvSetRxRadioCtrlCfg 0 1 1cli AdrvSetRxRadioCtrlCfg 0 2 1cli write_fpgareg 0x25 0cli write_fpgareg 0x26 0cli write_fpgareg 0x27 0cli write_fpgareg 0x28 0cli write_fpgareg 0x29 0cli write_fpgareg 0x2b 0|258:13:1835009:RETURN|0:0:0:SLEEPEQUAL1200|
-Rx1=12:0:0:set_tx_pll 0 733set_pa_mode 0 0 2AdrvSetRxTxEnable 0 0x1 0set_rx_att 0 14000AdrvGetRxDecPower 0 1|258:13:1835009:RETURN|0:0:0:SLEEPEQUAL1200|
-Rx2=12:0:0:set_tx_pll 0 733set_pa_mode 0 1 2AdrvSetRxTxEnable 0 0x2 0set_rx_att 1 14000AdrvGetRxDecPower 0 2|258:13:1835009:RETURN|0:0:0:SLEEPEQUAL1200|
-Tx1=12:0:0:set_tx_pll 0 773AdrvSetTxTestTone 0 1 1 1 0set_pa_mode 0 0 1set_pa_mode 0 1 1set_tx_att 0 6000|0:0:0:SLEEPEQUAL1200|
-Tx2=12:0:0:set_tx_pll 0 773AdrvSetTxTestTone 0 2 1 1 0set_pa_mode 0 1 1set_tx_att 1 6000|258:13:1835009:RETURN|0:0:0:SLEEPEQUAL1200|
+Preliminary Operation=12:0:0:cli AdrvSetTxRadioCtrlCfg 0 1 1
+Rx1=12:0:0:set_tx_pll 0 733
+Rx2=12:0:0:set_tx_pll 0 733
+Tx1=12:0:0:set_tx_pll 0 773
+Tx2=12:0:0:set_tx_pll 0 773
 
-[Macros_2]
+[Macros_3]
 SubRep=R2C6-N28-D\Tx1_FrequencyMoving
 ImgNum=41
 758=12:2:0:AdrvSetTxTestTone 0 1 1 -15 0|258:13:1835009:RETURN|0:0:0:SLEEPEQUAL1200|
@@ -20,7 +24,7 @@ ImgNum=41
 803=12:2:0:AdrvSetTxTestTone 0 1 1 30 0|258:13:1835009:RETURN|0:0:0:SLEEPEQUAL1200|
 shutdown=12:2:0:AdrvSetTxTestTone 0 1 0 0 0|258:13:1835009:RETURN|0:0:0:SLEEPEQUAL1200|
 
-[Macros_3]
+[Macros_4]
 SubRep=R2C6-N28-D\Tx2_FrequencyMoving
 ImgNum=41
 758=12:2:0:AdrvSetTxTestTone 0 2 1 -15 0|258:13:1835009:RETURN|0:0:0:SLEEPEQUAL1200|
@@ -29,17 +33,17 @@ ImgNum=41
 803=12:2:0:AdrvSetTxTestTone 0 2 1 30 0|258:13:1835009:RETURN|0:0:0:SLEEPEQUAL1200|
 shutdown=12:2:0:AdrvSetTxTestTone 0 2 0 0 0|258:13:1835009:RETURN|0:0:0:SLEEPEQUAL1200|
 
-[Macros_4]
+[Macros_5]
 SubRep=RU4C-N1-L1
 ImgNum=41
 AdrvGetClgcStatus 0 1=12:4:0:AdrvGetClgcStatus 0 1|258:13:1835009:RETURN|0:0:0:SLEEPEQUAL1200|
 AdrvGetClgcStatus 0 2=12:0:0:AdrvGetClgcStatus 0 2|258:13:1835009:RETURN|0:0:0:SLEEPEQUAL1200|
 AdrvGetClgcStatus 0 4=12:0:0:AdrvGetClgcStatus 0 4|258:13:1835009:RETURN|0:0:0:SLEEPEQUAL1200|
 AdrvGetClgcStatus 0 8=12:4:0:AdrvGetClgcStatus 0 8|258:13:1835009:RETURN|0:0:0:SLEEPEQUAL1200|
-CH0-Tx=12:0:0:AdrvSetTxTestTone 0 1 0 1 0write_fpgareg 0x25 0write_fpgareg 0x26 0set_tx_att 0 18000set_tx_pll 0 2160AdrvSetTxTestTone 0 1 1 1 0AdrvSetRxTxEnable 0 0 1write_fpgareg 0x1fa 0x10set_pa_mode 0 0 1AdrvSetTxToOrxMapping 0 0x10 1AdrvInitCalsRun 0 0x200000 1//OPDwrite_fpgareg 0x1fa 0x10AdrvSetTrackCalsEnable 0 0x100000 1AdrvGetClgcStatus 0 1//RPDwrite_fpgareg 0x1fa 0x14AdrvSetTrackCalsEnable 0 0x100000 1AdrvGetClgcStatus 0 1|258:13:1835009:RETURN|0:0:0:SLEEPEQUAL1200|
-CH1-Tx=12:0:0:write_fpgareg 0x25 0write_fpgareg 0x26 0AdrvSetTxTestTone 0 2 0 1 0AdrvSetTrackCalsEnable 0 0xf00000 0set_tx_att 1 18000set_tx_pll 0 2160AdrvSetRxTxEnable 0 0 0write_fpgareg 0x1fa 0x11set_pa_mode 0 1 1AdrvSetTxToOrxMapping 0 0x20 2AdrvInitCalsRun 0 0x200000 2AdrvSetTxTestTone 0 2 1 1 0AdrvSetRxTxEnable 0 0 2//OPDwrite_fpgareg 0x1fa 0x11AdrvSetTrackCalsEnable 0 0x200000 1AdrvGetClgcStatus 0 2//RPDwrite_fpgareg 0x1fa 0x15AdrvSetTrackCalsEnable 0 0x200000 1AdrvGetClgcStatus 0 2|258:13:1835009:RETURN|0:0:0:SLEEPEQUAL1200|
-CH2-Tx=12:0:0:AdrvSetTxTestTone 0 4 0 1 0set_tx_att 2 18000set_tx_pll 0 2160AdrvSetTxTestTone 0 4 1 1 0AdrvSetRxTxEnable 0 0 4write_fpgareg 0x1fa 0x12set_pa_mode 0 2 1AdrvSetTxToOrxMapping 0 0x40 4AdrvInitCalsRun 0 0x200000 4//OPDwrite_fpgareg 0x1fa 0x12AdrvSetTrackCalsEnable 0 0x400000 1AdrvGetClgcStatus 0 4//RPDwrite_fpgareg 0x1fa 0x16AdrvSetTrackCalsEnable 0 0x400000 1AdrvGetClgcStatus 0 4|258:13:1835009:RETURN|0:0:0:SLEEPEQUAL1200|
-CH4-Tx=12:0:0:AdrvSetTxTestTone 0 8 0 1 0set_tx_att 3 18000set_tx_pll 0 2160AdrvSetTxTestTone 0 8 1 1 0AdrvSetRxTxEnable 0 0 8write_fpgareg 0x1fa 0x13set_pa_mode 0 3 1AdrvSetTxToOrxMapping 0 0x80 8AdrvInitCalsRun 0 0x200000 8//OPDwrite_fpgareg 0x1fa 0x13AdrvSetTrackCalsEnable 0 0x800000 1AdrvGetClgcStatus 0 8//RPDwrite_fpgareg 0x1fa 0x17AdrvSetTrackCalsEnable 0 0x800000 1AdrvGetClgcStatus 0 8|258:13:1835009:RETURN|0:0:0:SLEEPEQUAL1200|
+CH0-Tx=12:0:0:AdrvSetTxTestTone 0 1 0 1 0
+CH1-Tx=12:0:0:write_fpgareg 0x25 0
+CH2-Tx=12:0:0:AdrvSetTxTestTone 0 4 0 1 0
+CH4-Tx=12:0:0:AdrvSetTxTestTone 0 8 0 1 0
 Login=12:0:0:root|258:13:1835009:RETURN|0:0:0:SLEEPEQUAL1200|12:0:0:root|258:13:1835009:RETURN|0:0:0:SLEEPEQUAL1200|
-Rx=12:0:0:set_tx_pll 0 2080set_rx_att 0 20000set_rx_att 1 20000set_rx_att 2 20000set_rx_att 3 20000write_fpgareg 0x29 0x100AdrvSetRxTxEnable 0 0xf 0|258:13:1835009:RETURN|0:0:0:SLEEPEQUAL1200|
+Rx=12:0:0:set_tx_pll 0 2080
 
