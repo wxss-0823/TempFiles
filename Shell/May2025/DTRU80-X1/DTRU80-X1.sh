@@ -54,19 +54,17 @@ powercalc 18 10000000
 powercalc 19 10000000
 
 
-
-
-
 ****TXÁ´Â·****
 lmk_inchannelconfig 2
 set_testsource
 dl_tetrasource 5120 0 0
 
+set_dacsingletest 0 -9
 set_multi_carr_mode 1 1
-freq_config 0 860
+freq_config 0 851
 set_pa_input_sig_sw 1
 write_fpgareg 0x46 1
-write_txdvga 5
+write_txdvga 7
 powercalc 0 1000000
-write_fbdvga 7
+write_fbdvga 12
 powercalctxfb 14 1000000
