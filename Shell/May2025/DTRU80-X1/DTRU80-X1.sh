@@ -61,7 +61,7 @@ dl_tetrasource 5120 0 0
 
 set_dacsingletest 0 -9
 set_multi_carr_mode 1 1
-freq_config 0 851
+freq_config 0 86
 set_pa_input_sig_sw 1
 write_fpgareg 0x46 1
 write_txdvga 7
