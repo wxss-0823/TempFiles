@@ -1773,7 +1773,7 @@ License:             GPL2
         <WidgetStyle name="Indent guideline style" styleID="37" fgColor="808080" bgColor="3F3F3F" fontName="JetBrains Mono" fontStyle="0" fontSize=""></WidgetStyle>
         <WidgetStyle name="Brace highlight style" styleID="34" fgColor="F0F9F9" bgColor="3F3F3F" fontName="" fontStyle="1" fontSize=""></WidgetStyle>
         <WidgetStyle name="Bad brace colour" styleID="35" fgColor="F09F9F" bgColor="3F3F3F" fontName="" fontStyle="0" fontSize=""></WidgetStyle>
-        <WidgetStyle name="Current line background colour" styleID="0" bgColor="408080"></WidgetStyle>
+        <WidgetStyle name="Current line background colour" styleID="0" bgColor="000000"></WidgetStyle>
         <!-- In below rule 'fgColor' attribute for 'Selected text colour' can be unlocked with a enableSelectFgColor.xml file -->
         <WidgetStyle name="Selected text colour" styleID="0" bgColor="585858" fgColor="000000"></WidgetStyle>
         <WidgetStyle name="Multi-selected text color" styleID="0" bgColor="C0C0C0"></WidgetStyle>

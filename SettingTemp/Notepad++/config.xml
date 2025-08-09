@@ -23,8 +23,6 @@
         <Replace name=" " />
     </FindHistory>
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="D:\Users\ProjectFiles\TempFiles\LogTemp\Source\NR_TDD_100M_TM31a_30k.txt" />
-        <File filename="C:\Users\Wang Xishengshun\Desktop\N28CarrierConfig.txt" />
         <File filename="C:\Users\Wang Xishengshun\Desktop\CRT&#x65B0;&#x811A;&#x672C;&#x6A21;&#x677F; .vbs" />
         <File filename="D:\Users\ProjectFiles\Codes\PycharmProjects\Projects\20250808\SecureCRTScript\main.py" />
         <File filename="C:\Users\Wang Xishengshun\Desktop\R4C-N78&#x6307;&#x4EE4;.txt" />
@@ -33,6 +31,8 @@
         <File filename="D:\Users\ProjectFiles\Codes\PycharmProjects\Projects\20250808\SecureCRTScript\carrierConfig.py" />
         <File filename="D:\Users\ProjectFiles\Log\WorkLog\Shell\May2025\R2C6-N28-D\N28ConfigCmd.txt" />
         <File filename="C:\Users\Wxss\Desktop\matlab.txt" />
+        <File filename="D:\home\wxss\GitProjects\Log\WorkLog\2025-nd\AutoConfigIP.sh" />
+        <File filename="C:\Users\Wxss\Desktop\AutoConfigIP.sh" />
     </History>
     <ProjectPanels>
         <ProjectPanel id="0" workSpaceFile="" />
