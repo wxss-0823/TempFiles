@@ -22,16 +22,18 @@
         <Replace name="1000" />
         <Replace name=" " />
     </FindHistory>
+    <FileBrowser />
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="C:\Users\Wang Xishengshun\Desktop\R4C-N78&#x6307;&#x4EE4;.txt" />
-        <File filename="C:\Users\Wang Xishengshun\Desktop\CRT&#x65B0;&#x811A;&#x672C;&#x6A21;&#x677F; .txt" />
-        <File filename="D:\Users\ProjectFiles\Codes\PycharmProjects\Projects\20250808\SecureCRTScript\N28CarrierConfig.txt" />
-        <File filename="D:\Users\ProjectFiles\Codes\PycharmProjects\Projects\20250808\SecureCRTScript\carrierConfig.py" />
-        <File filename="D:\Users\ProjectFiles\Log\WorkLog\Shell\May2025\R2C6-N28-D\N28ConfigCmd.txt" />
-        <File filename="C:\Users\Wxss\Desktop\matlab.txt" />
+        <File filename="C:\Users\Wxss\AppData\Local\Temp\7zO438CA95F\passwd" />
         <File filename="D:\home\wxss\GitProjects\Log\WorkLog\2025-nd\AutoConfigIP.sh" />
+        <File filename="C:\Users\Wxss\Desktop\AutoConfigIP.sh" />
+        <File filename="D:\usr\bin\JetBrains\PyCharm2025.2\plugins\python-ce\helpers\testResources\data\generator3\StatePassingGeneration\state_json_for_up_to_date_skeletons_retains_original_gen_version\after\sdk_skeletons\.state.json" />
+        <File filename="D:\home\env\python\anaconda3\Lib\site-packages\bokeh\_sri\0.1.0.json" />
+        <File filename="D:\home\env\python\anaconda3\Lib\site-packages\bokeh\_sri\0.11.1.json" />
+        <File filename="D:\home\wxss\GitProjects\Log\WorkLog\2025-nd\ComProtocol&amp;Architecture.md" />
+        <File filename="C:\Users\Wxss\Desktop\N28ConfigCmd.sh" />
         <File filename="C:\Users\Wxss\Desktop\PullPushScript.sh" />
-        <File filename="C:\Users\Wxss\.condarc" />
+        <File filename="C:\Users\Wxss\Desktop\N28CarrierConfig - Copy.sh" />
     </History>
     <ProjectPanels>
         <ProjectPanel id="0" workSpaceFile="" />
@@ -49,7 +51,7 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="2" backspaceUnindent="no" />
-        <GUIConfig name="AppPosition" x="649" y="101" width="610" height="724" isMaximized="yes" />
+        <GUIConfig name="AppPosition" x="182" y="65" width="1021" height="724" isMaximized="no" />
         <GUIConfig name="FindWindowPosition" left="598" top="261" right="1231" bottom="619" isLessModeOn="no" />
         <GUIConfig name="FinderConfig" wrappedLines="no" purgeBeforeEverySearch="no" showOnlyOneEntryPerFoundLine="yes" />
         <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20250822" autoUpdateMode="1">no</GUIConfig>
@@ -90,8 +92,17 @@
         <GUIConfig name="MarkAll" matchCase="no" wholeWordOnly="yes" />
         <GUIConfig name="SmartHighLight" matchCase="no" wholeWordOnly="yes" useFindSettings="no" onAnotherView="no">yes</GUIConfig>
         <GUIConfig name="DarkMode" enable="yes" colorTone="0" customColorTop="2105376" customColorMenuHotTrack="4539717" customColorActive="3684408" customColorMain="2105376" customColorError="176" customColorText="14737632" customColorDarkText="12632256" customColorDisabledText="8421504" customColorLinkText="65535" customColorEdge="6579300" customColorHotEdge="10197915" customColorDisabledEdge="4737096" enableWindowsMode="no" darkThemeName="DarkModeDefault.xml" darkToolBarIconSet="0" darkTbFluentColor="0" darkTbFluentCustomColor="8668977" darkTbFluentMono="no" darkTabIconSet="2" darkTabUseTheme="no" lightThemeName="" lightToolBarIconSet="4" lightTbFluentColor="0" lightTbFluentCustomColor="1512458" lightTbFluentMono="no" lightTabIconSet="0" lightTabUseTheme="yes" />
-        <GUIConfig name="ScintillaPrimaryView" lineNumberMargin="show" lineNumberDynamicWidth="yes" bookMarkMargin="show" indentGuideLine="show" folderMarkStyle="box" isChangeHistoryEnabled="1" lineWrapMethod="aligned" currentLineIndicator="1" currentLineFrameWidth="1" virtualSpace="no" scrollBeyondLastLine="yes" rightClickKeepsSelection="no" selectedTextForegroundSingleColor="no" disableAdvancedScrolling="no" wrapSymbolShow="hide" Wrap="no" borderEdge="yes" isEdgeBgMode="no" edgeMultiColumnPos="" zoom="2" zoom2="3" whiteSpaceShow="hide" eolShow="hide" eolMode="1" npcShow="hide" npcMode="1" npcCustomColor="no" npcIncludeCcUniEOL="no" npcNoInputC0="yes" ccShow="yes" borderWidth="2" smoothFont="no" paddingLeft="0" paddingRight="0" distractionFreeDivPart="4" lineCopyCutWithoutSelection="yes" multiSelection="yes" columnSel2MultiEdit="yes" />
-        <GUIConfig name="DockingManager" leftWidth="200" rightWidth="200" topHeight="200" bottomHeight="462">
+        <GUIConfig name="ScintillaPrimaryView" lineNumberMargin="show" lineNumberDynamicWidth="yes" bookMarkMargin="hide" indentGuideLine="show" folderMarkStyle="box" isChangeHistoryEnabled="0" lineWrapMethod="aligned" currentLineIndicator="1" currentLineFrameWidth="1" virtualSpace="no" scrollBeyondLastLine="yes" rightClickKeepsSelection="no" selectedTextForegroundSingleColor="no" disableAdvancedScrolling="no" wrapSymbolShow="hide" Wrap="no" borderEdge="yes" isEdgeBgMode="no" edgeMultiColumnPos="" zoom="3" zoom2="3" whiteSpaceShow="hide" eolShow="hide" eolMode="1" npcShow="hide" npcMode="1" npcCustomColor="no" npcIncludeCcUniEOL="no" npcNoInputC0="yes" ccShow="no" borderWidth="2" smoothFont="no" paddingLeft="0" paddingRight="0" distractionFreeDivPart="4" lineCopyCutWithoutSelection="yes" multiSelection="yes" columnSel2MultiEdit="yes" />
+        <GUIConfig name="DockingManager" leftWidth="200" rightWidth="606" topHeight="200" bottomHeight="462">
+            <PluginDlg pluginName="NPPJSONViewer.dll" id="0" curr="0" prev="-1" isVisible="no" />
+            <PluginDlg pluginName="Notepad++::InternalFunction" id="44070" curr="0" prev="-1" isVisible="no" />
+            <PluginDlg pluginName="NppExec.dll" id="5" curr="3" prev="-1" isVisible="no" />
+            <PluginDlg pluginName="ComparePlugin.dll" id="11" curr="1" prev="-1" isVisible="no" />
+            <PluginDlg pluginName="MarkdownViewer++" id="0" curr="1" prev="-1" isVisible="yes" />
+            <PluginDlg pluginName="NppMarkdownPanel" id="0" curr="1" prev="-1" isVisible="yes" />
+            <PluginDlg pluginName="Notepad++::InternalFunction" id="44085" curr="0" prev="-1" isVisible="no" />
+            <PluginDlg pluginName="Notepad++::InternalFunction" id="44080" curr="1" prev="-1" isVisible="no" />
+            <PluginDlg pluginName="Notepad++::InternalFunction" id="44084" curr="1" prev="-1" isVisible="no" />
             <PluginDlg pluginName="Notepad++::InternalFunction" id="0" curr="3" prev="-1" isVisible="yes" />
             <ActiveTabs cont="0" activeTab="-1" />
             <ActiveTabs cont="1" activeTab="-1" />

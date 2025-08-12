@@ -1,0 +1,18 @@
+2025-08-11 10:34:24  WM_QUERYENDSESSION (lParam: 2147483649 - ENDSESSION_CLOSEAPP - ENDSESSION_LOGOFF) =====================================
+2025-08-11 10:34:24  WM_ENDSESSION (wParam: TRUE, lParam: 2147483649 - ENDSESSION_CLOSEAPP - ENDSESSION_LOGOFF)
+2025-08-11 10:34:24  D:\home\wxss\GitProjects\TempFiles\SettingTemp\Notepad++\config.xml is opened.
+2025-08-11 10:34:24  D:\home\wxss\GitProjects\TempFiles\SettingTemp\Notepad++\config.xml  10124/10124 bytes are written.
+2025-08-11 10:34:24  D:\home\wxss\GitProjects\TempFiles\SettingTemp\Notepad++\config.xml is closed.
+2025-08-11 10:34:24  C:\Users\Wxss\AppData\Roaming\Notepad++\session.xml is opened.
+2025-08-11 10:34:24  C:\Users\Wxss\AppData\Roaming\Notepad++\session.xml  1396/1396 bytes are written.
+2025-08-11 10:34:24  C:\Users\Wxss\AppData\Roaming\Notepad++\session.xml is closed.
+2025-08-11 10:34:24  WM_DESTROY (isEndSessionStarted == true)
+2025-08-11 13:14:01  WM_QUERYENDSESSION (lParam: 1 - ENDSESSION_CLOSEAPP) =====================================
+2025-08-11 13:14:01  WM_ENDSESSION (wParam: TRUE, lParam: 1 - ENDSESSION_CLOSEAPP)
+2025-08-11 13:14:01  D:\home\wxss\GitProjects\TempFiles\SettingTemp\Notepad++\config.xml is opened.
+2025-08-11 13:14:01  D:\home\wxss\GitProjects\TempFiles\SettingTemp\Notepad++\config.xml  10124/10124 bytes are written.
+2025-08-11 13:14:01  D:\home\wxss\GitProjects\TempFiles\SettingTemp\Notepad++\config.xml is closed.
+2025-08-11 13:14:01  C:\Users\Wxss\AppData\Roaming\Notepad++\session.xml is opened.
+2025-08-11 13:14:01  C:\Users\Wxss\AppData\Roaming\Notepad++\session.xml  1394/1394 bytes are written.
+2025-08-11 13:14:01  C:\Users\Wxss\AppData\Roaming\Notepad++\session.xml is closed.
+2025-08-11 13:14:01  WM_DESTROY (isEndSessionStarted == true)
