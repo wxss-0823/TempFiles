@@ -1,0 +1,2048 @@
+ 653 136c
+ efe  dcd
+13d8  4ba
+13b3 fa6f
+ e73 f175
+ 576 ec3f
+fb14 ec14
+f210 f110
+ec95 f9d3
+ebfb  417
+f097  d5e
+f91f 133b
+ 365 1412
+ ccd  fd2
+12ff  78b
+1443 fd46
+105d f3d4
+ 864 ed64
+fe2a eba2
+f46c ef21
+eda2 f708
+eba6  128
+eed3  b10
+f666 1207
+  66 1469
+ a53 11ab
+11a1  a45
+145d   5b
+11f6 f645
+ ae1 eeab
+ 102 eb87
+f6fc edb0
+ef2d f45c
+eba6 fe1c
+ed5a  876
+f3e8 106d
+fd71 143a
+ 7ab 12e6
+ ff4  cce
+1430  35e
+1346 f900
+ d5e f082
+ 41c ebef
+f9c9 ec8c
+f11d f21e
+ec34 fb2e
+ec5d  569
+f190  e66
+fa77 13a4
+ 4df 13d4
+ dd7  eec
+137c  647
+140d fbec
+ f80 f2a3
+ 6ee ecb9
+fcaf ebdd
+f352 f013
+ed21 f847
+ebc1  291
+efa2  c30
+f7a3 12aa
+ 1e3 146f
+ b8a 10d4
+1252  8f7
+1453 fee2
+1131 f527
+ 9a5 ee10
+ffab ebab
+f5c7 ee64
+ee64 f596
+eb94 ffa5
+ee0c  991
+f4f0 1118
+febd 1479
+ 901 1276
+10ea  b94
+144b  1e2
+12b8 f7c6
+ c52 efa6
+ 2b3 ebb9
+f864 ed01
+f029 f324
+ebd5 fc9c
+eccb  6d6
+f291  f68
+fbde 13ef
+ 618 1364
+ eb8  e07
+13cb  50e
+13c8 fa97
+ e85 f192
+ 5ae ec5e
+fb5e ec0b
+f22e f0dc
+ec8f f99b
+ebf4  3ed
+f073  d3b
+f8d4 132e
+ 33b 1430
+ cb0 100f
+12d3  7c4
+144c fd9c
+108d f3ed
+ 876 ed53
+fe19 eba9
+f48f ef3a
+edd7 f6c1
+eb91   d0
+ee94  ac3
+f60c 11e1
+  17 1463
+ a0c 11c1
+117e  a87
+1472   a0
+121d f685
+ b21 eed9
+ 15e eb96
+f730 ed89
+ef49 f443
+eba5 fdfb
+ed55  81c
+f3a4 1028
+fd1d 1421
+ 764 1304
+ fc6  cdc
+1418  390
+1359 f92f
+ d80 f0b2
+ 45f ec15
+fa1b ec73
+f13e f1e8
+ec3e faeb
+ec47  54c
+f15e  e4d
+fa2b 13b0
+ 494 13f8
+ dba  f36
+1359  68b
+1414 fc32
+ fa9 f2e5
+ 73d ecf6
+fcf0 ebca
+f36b efd7
+ed28 f81d
+ebac  25b
+ef70  c01
+f774 1297
+ 1a1 1452
+ b49 10f4
+1236  957
+147a ff26
+1170 f553
+ 9f5 ee3b
+fff3 eb90
+f5f4 ee40
+ee7a f585
+ebaa ff57
+ede7  95f
+f4df 1105
+fe85 1447
+ 8b6 127c
+10b0  bde
+1449  222
+12c0 f802
+ c6c efd2
+ 2e9 ebd7
+f8bb ece8
+f044 f2eb
+ebda fc65
+ecb2  69e
+f26a  f38
+fbaa 13ed
+ 5ea 137a
+ eab  e1d
+13b2  51c
+13bf fac1
+ ea3 f1d4
+ 5de ec78
+fb86 ec07
+f242 f0d2
+ec88 f96d
+ebf1  3b9
+f04c  d27
+f8ce 1321
+ 2ff 1429
+ c7f 102a
+12d7  7f3
+1442 fdad
+108c f403
+ 89e ed6d
+fe6a eba3
+f4cd eefa
+ede0 f697
+eba3   af
+ee92  a9a
+f600 11d2
+   1 1477
+ 9f8 11d1
+1163  a98
+1465   e7
+123c f6bb
+ b53 eef9
+ 192 eb9e
+f75e ed72
+ef67 f40d
+eba1 fdad
+ed27  7f3
+f380 102d
+fd1a 1443
+ 749 130d
+ fa9  d3a
+1437  3d7
+135e f961
+ d9d f0de
+ 472 ec27
+fa1f ec78
+f14e f1dc
+ec57 fad4
+ec42  515
+f14a  e0c
+f9f9 138b
+ 45d 13e3
+ d83  f42
+1346  6ac
+1414 fc53
+ f9e f309
+ 755 ed07
+fd18 ebce
+f38e efc4
+ed34 f7f4
+ebbe  21b
+ef50  bbb
+f73c 1266
+ 165 1450
+ b0d 110d
+1202  987
+147b ff65
+116e f56f
+ a0c ee3e
+  37 eb93
+f61b ee1a
+ee97 f549
+eb93 ff23
+edd5  954
+f4c3 10fe
+fe7a 1445
+ 888 1279
+1089  bfe
+144e  269
+12d6 f81c
+ c7b eff6
+ 31d ebe6
+f8de ecdd
+f057 f2d4
+ebee fc33
+ec92  67e
+f257  f0a
+fb5d 13df
+ 5ca 13a4
+ ea7  e47
+13c6  551
+13c6 faf0
+ eba f1fc
+ 600 ec95
+fbbc ec00
+f265 f0bb
+ecad f95a
+ebdb  39d
+f02d  cf5
+f883 12f8
+ 2c4 143f
+ c61 1039
+12b1  81b
+145a fdea
+10b5 f43c
+ 8db ed92
+feb1 eba6
+f4e8 eeda
+edfb f684
+eb83   9d
+ee78  a8c
+f5ca 11cb
+ffca 147d
+ 9d5 11e1
+114b  ad5
+144e   f2
+122f f6cb
+ b61 ef16
+ 1b5 eb9c
+f771 ed74
+ef8d f3f2
+ebc2 fd9b
+ed1d  7cc
+f366  ffd
+fcd3 1410
+ 70d 1329
+ f82  d41
+1412  3fe
+1361 f9ab
+ dcd f0ec
+ 4a4 ec2d
+fa57 ec63
+f16c f1c0
+ec51 fa97
+ec29  4eb
+f118  e03
+f9df 1387
+ 43e 13f1
+ d5f  f5b
+1341  6e2
+1425 fc8c
+ fe4 f32d
+ 795 ed05
+fd3d ebbc
+f3aa efb4
+ed53 f7bd
+eba5  1ea
+ef2f  ba0
+f708 1269
+ 122 146f
+ b0e 1137
+1209  995
+145c ff94
+1189 f5c6
+ a5e ee63
+  53 eb90
+f650 ee01
+eec2 f508
+eba2 fee9
+edbb  90a
+f470 10d1
+fe3e 1455
+ 85e 12a9
+106f  c42
+144c  2a4
+12e4 f853
+ cb6 f024
+ 35f ebf3
+f907 ecd7
+f080 f2b6
+ec06 fbea
+ec83  638
+f215  ef4
+fb43 13e5
+ 590 13a1
+ e76  e65
+139e  582
+13ea fb41
+ f18 f213
+ 649 ec7c
+fbf3 ebfe
+f2b5 f093
+ecd0 f92d
+ebdd  35b
+f013  cce
+f84d 1300
+ 2a3 1461
+ c43 1074
+129a  857
+1446 fe3d
+10e4 f465
+ 8fe edb5
+fefb ebb1
+f518 eeb3
+edf3 f64f
+eb8a   68
+ee62  a48
+f5a3 1196
+ff8b 1463
+ 989 11fb
+1128  afa
+1459  12c
+1262 f700
+ b8f ef32
+ 1e5 ebb6
+f7c6 ed66
+efaf f3c4
+ebc4 fd67
+ed21  79a
+f337  fdb
+fc8c 1431
+ 6f6 1348
+ f70  d5d
+13f8  41c
+1361 f9e3
+ df8 f133
+ 4de ec31
+fa8a ec50
+f18f f190
+ec53 fa72
+ec1e  4bc
+f0f0  de9
+f9a6 1388
+ 406 1418
+ d42  f9a
+1339  70e
+1433 fcc5
+100a f342
+ 7b2 ed13
+fd84 ebc9
+f3da ef7a
+ed48 f79c
+eba9  1d5
+ef19  b74
+f6cc 1248
+  f7 1472
+ ada 115c
+11f1  9d3
+1475 ffbf
+11a5 f5c9
+ a77 ee7f
+  9b eb8e
+f68f edf6
+eef0 f4f3
+ebad feac
+eda5  8e0
+f469 10be
+fdf3 1446
+ 830 12c7
+105e  c59
+1438  2c1
+1306 f87d
+ cdd f024
+ 37d ebe9
+f94a ecca
+f0b6 f26f
+ec06 fbb6
+ec97  603
+f206  eb9
+fb06 13a7
+ 561 13a0
+ e5d  e87
+13ae  5aa
+13ed fb57
+ f09 f22b
+ 664 ec98
+fc0e ebfd
+f2c3 f07c
+ecdb f8e8
+ebc9  32c
+efe0  cac
+f827 12e9
+ 270 1434
+ bf4 1064
+1288  87e
+1450 fe50
+10de f49e
+ 926 ede1
+ff2a eba1
+f541 ee97
+ee0f f63a
+ebab   34
+ee4a  a0b
+f568 1197
+ff70 146a
+ 972 1214
+1127  b1f
+145f  149
+125b f72d
+ bc8 ef58
+ 21d eba0
+f7dd ed50
+efdc f3aa
+ebca fd17
+ecf3  767
+f307  fc2
+fc63 1407
+ 6b8 134b
+ f3c  d86
+13f6  456
+1370 f9fd
+ e14 f138
+ 510 ec3b
+fac1 ec3d
+f1ba f166
+ec6b fa39
+ec04  488
+f0d8  db6
+f970 1363
+ 3be 140a
+ d2b  fa3
+1309  72a
+1412 fcfa
+1013 f36f
+ 7e3 ed32
+fdb1 ebc2
+f40f ef76
+ed76 f75f
+eb9f  18a
+ef17  b5c
+f6be 122b
+  cf 1467
+ aac 115e
+11cb  9f2
+1464    d
+11c3 f5f4
+ a80 ee9d
+  aa ebb5
+f69e eddc
+eee0 f4c6
+eb97 fe8d
+ed8a  8bc
+f419 10a3
+fde4 145e
+ 823 12b4
+1020  c59
+142e  2eb
+1308 f89f
+ cf3 f041
+ 3a4 ec05
+f96c ecad
+f0c9 f257
+ec13 fb9b
+ec92  5ed
+f1e6  e94
+fad7 13b7
+ 52f 13b5
+ e22  ea2
+1369  5e6
+13ea fb92
+ f33 f256
+ 67e eca2
+fc36 ebed
+f2e9 f042
+ecd1 f8b3
+ebb3  30d
+efe5  c71
+f804 12be
+ 236 1453
+ bd8 10ae
+128f  8c6
+1469 fe76
+1106 f4bb
+ 97d edd5
+ff5a eb7c
+f54d ee8c
+ee2f f60c
+eb87 fffe
+ee23  a19
+f568 1180
+ff30 1470
+ 94b 1245
+1107  b6f
+145e  1a6
+12a1 f773
+ c07 ef60
+ 250 ebb0
+f81a ed29
+efe9 f365
+ebcf fcdf
+ecda  72b
+f2dd  fb0
+fc58 1410
+ 696 134f
+ f1e  db0
+13e5  48b
+139a fa41
+ e3b f165
+ 543 ec41
+faeb ec3d
+f1ca f13a
+ec73 fa03
+ec03  459
+f0ba  d8f
+f954 132d
+ 379 141a
+ cf8  fc9
+1310  75a
+143a fd2c
+1048 f3a6
+ 822 ed39
+fdef ebb5
+f448 ef47
+ed91 f731
+ebaa  158
+eedf  b20
+f667 121e
+  8a 1484
+ a83 1191
+11a6  a3b
+1474   46
+11d7 f61e
+ ab0 ee9b
+  e8 eba9
+f6c8 edc1
+ef0f f494
+ebb3 fe52
+ed64  86b
+f3fb 107a
+fd8c 143b
+ 7cd 12c9
+1005  ca6
+142c  32b
+1331 f8f0
+ d4b f06b
+ 3e2 ebf0
+f98f ecb0
+f103 f251
+ec26 fb52
+ec5f  5b2
+f1bd  e85
+fa8d 13a4
+ 4de 13d3
+ dfe  ee3
+1379  621
+13fe fbcc
+ f6c f284
+ 6d3 ecbd
+fc8c ebe3
+f32d f02e
+ecfd f872
+ebb3  2c4
+efaf  c57
+f7bd 12bc
+ 1fa 146b
+ bb3 10c7
+1279  8f2
+1466 febe
+112d f4f6
+ 980 edf1
+ff7e eba3
+f59d ee83
+ee66 f5cd
+ebbe ffb6
+ee10  9b9
+f520 1148
+fef3 1468
+ 90c 124d
+10d3  b8f
+146b  1d0
+12a2 f791
+ c0c ef76
+ 282 ebba
+f853 ed17
+f00b f352
+ebcf fcd2
+ecec  701
+f2c3  f64
+fbeb 1406
+ 64f 1380
+ f08  dda
+13e5  4b1
+13a5 fa6c
+ e71 f1a2
+ 58f ec53
+fb34 ec1e
+f223 f127
+ec8f f9cb
+ec0c  42b
+f0a3  d64
+f926 1329
+ 350 1425
+ cd0  ff3
+12f2  787
+1428 fd45
+1050 f3cd
+ 85b ed5f
+fe34 eb9b
+f468 ef08
+edb8 f706
+eba1  105
+eec2  ade
+f656 11f6
+  64 146c
+ a49 1197
+11a1  a5f
+1476   4c
+11ee f63c
+ aee eed3
+ 122 eb8d
+f6f7 ed8e
+ef1e f45f
+ebb1 fe1d
+ed51  846
+f3ca 1051
+fd6b 144d
+ 79d 12eb
+ ff0  ccf
+1422  361
+1333 f917
+ d5c f09d
+ 426 ebf5
+f9bc ec74
+f0f9 f206
+ec2a fb15
+ec44  568
+f160  e6b
+fa65 13bb
+ 4c7 13de
+ deb  eef
+1364  63a
+13f9 fc00
+ f73 f2c5
+ 703 ece6
+fcbe ebd2
+f338 f006
+ed10 f86c
+ebba  293
+ef92  c2b
+f78c 129d
+ 1de 1471
+ b90 10d9
+1246  90b
+1459 fef0
+113f f52b
+ 9c3 ee0e
+ffc2 eba4
+f5c0 ee56
+ee6b f599
+eb93 ff88
+edf3  995
+f501 1123
+feba 144e
+ 8d0 1257
+10c1  bb4
+1458  210
+12bb f7b7
+ c41 ef9c
+ 2af ebbb
+f878 ed0f
+f03a f31e
+ebdd fc99
+ecca  6c3
+f276  f5f
+fbb8 140c
+ 624 138c
+ ee0  e09
+13d9  4f0
+13b0 fa92
+ e7f f1a8
+ 5c2 ec68
+fb72 ec10
+f237 f0dc
+ec9d f99d
+ebf6  3f0
+f06f  d41
+f8fa 132a
+ 340 141d
+ ca2  ff2
+12c9  7cd
+143f fd91
+1078 f405
+ 881 ed6d
+fe67 eb9c
+f495 ef0d
+edb8 f6d1
+eb96  103
+eeb9  ad2
+f622 11d7
+  27 1473
+ a21 11bc
+1172  a76
+1457   9c
+1207 f693
+ b17 eee1
+ 143 eb9d
+f727 ed94
+ef4d f439
+eba2 fdef
+ed44  81f
+f3a9 102b
+fd23 1442
+ 761 12fb
+ fdc  ced
+142b  394
+134b f939
+ d7c f0b6
+ 451 ec05
+fa07 ec7a
+f128 f1d8
+ec3d fb03
+ec46  54a
+f170  e48
+fa2f 139a
+ 4a1 13f2
+ dba  f10
+1354  68a
+1407 fc48
+ fa0 f2d2
+ 722 ecef
+fcf1 ebe7
+f381 efe4
+ed2f f815
+ebb8  23d
+ef66  be4
+f771 1288
+ 1a4 1467
+ b5d 10e4
+1221  93f
+1461 ff1f
+115b f55a
+ 9f8 ee20
+fff8 eb90
+f5ff ee2e
+ee8b f555
+eb85 ff44
+ede4  96e
+f4da 111e
+fea1 1472
+ 8cf 1281
+10ad  bcb
+1452  22c
+12d3 f7eb
+ c78 efdf
+ 305 ebb9
+f8ac ece5
+f03a f2db
+ebe8 fc55
+ecb0  69e
+f271  f28
+fb93 13e1
+ 5e7 1384
+ eb4  e26
+13c4  518
+13ba fac1
+ eb2 f1cd
+ 5f3 ec6b
+fb9e ebfe
+f258 f0bc
+ecb3 f976
+ebf9  3ae
+f04c  d07
+f8bc 1314
+ 309 1419
+ c4c 1014
+12b3  80e
+144b fdd5
+1099 f413
+ 8ae ed7f
+fe82 eb89
+f4a4 eefb
+edce f6be
+ebad   ba
+ee83  a8e
+f5fe 11c2
+ffee 1465
+ 9f7 11ce
+116e  aaf
+1469   b6
+1221 f69e
+ b46 eef6
+ 18b eba7
+f769 ed89
+ef83 f40c
+ebb6 fdbc
+ed2f  7ee
+f37e 1025
+fd01 1423
+ 74c 1318
+ fa2  d1b
+140c  3c5
+1358 f97a
+ dbc f0dd
+ 484 ec05
+fa2b ec79
+f165 f1d7
+ec5a fab3
+ec28  511
+f13b  e2f
+fa04 137d
+ 457 13ed
+ d7d  f44
+1356  6b4
+1439 fc61
+ fd1 f302
+ 780 ecf7
+fd35 ebae
+f39f efb1
+ed42 f7eb
+ebd0  225
+ef6b  bb5
+f749 1260
+ 166 144c
+ b23 1104
+1215  96c
+1475 ff46
+1174 f56b
+ a21 ee4b
+  2d eb91
+f629 ee23
+eeb7 f536
+eb9b ff17
+edd4  92d
+f493 10e5
+fe52 144d
+ 87a 128c
+1067  bf1
+143e  265
+12e0 f839
+ c9b efe8
+ 31e ebc6
+f8c5 ece7
+f06a f2d7
+ebfe fc1c
+eca2  66a
+f249  f15
+fb73 13de
+ 5ac 1396
+ ea0  e4b
+13dd  55b
+13d3 fae9
+ ed4 f1ed
+ 60c ec7b
+fbc4 ec0d
+f281 f0ac
+ecbe f94d
+ebf9  38b
+f043  ce7
+f887 1307
+ 2cd 1448
+ c55 104e
+12b8  822
+1438 fdf4
+10a6 f45f
+ 8d3 edaa
+feb1 ebb1
+f4e4 eedc
+edfe f670
+eb91   7b
+ee5e  a64
+f5d3 11b7
+ffb6 1479
+ 9c6 11e9
+114a  ad2
+145e   f2
+1237 f6f0
+ b7d ef20
+ 1b8 ebb2
+f77c ed8a
+efa3 f3fc
+ebc2 fd70
+ed17  7c8
+f34a  ff8
+fcbf 1426
+ 6f4 1323
+ f77  d44
+1409  3f1
+137f f9a1
+ db7 f0e6
+ 4a8 ec29
+fa64 ec64
+f182 f1a8
+ec53 faaf
+ec44  4ea
+f12a  df7
+f9e6 1385
+ 42c 13f5
+ d6d  f68
+1330  6f5
+1445 fcb4
+1007 f325
+ 7a9 ece5
+fd61 ebb3
+f3d6 efa3
+ed63 f7b5
+ebb8  200
+ef42  bb4
+f72e 1264
+ 141 145a
+ b07 1125
+120c  99d
+146b ff88
+1196 f5a3
+ a51 ee60
+  55 eb91
+f64f ee07
+eeb9 f50e
+eb8c fef9
+edb6  91c
+f482 10e3
+fe3c 1458
+ 867 1295
+1072  c23
+143d  29d
+12ee f854
+ ca5 f022
+ 35a ebf3
+f911 ece0
+f095 f2bb
+ec13 fbf8
+eca7  63f
+f21e  eef
+fb24 13d2
+ 584 13b3
+ e75  e71
+13b5  574
+13bc fb1b
+ ee0 f210
+ 62b ec92
+fbd5 ebf1
+f28e f089
+ecd7 f910
+ebca  346
+f022  ccf
+f85c 12e5
+ 28f 1438
+ c2e 106e
+12bb  863
+145f fe1d
+10c4 f467
+ 90c edbd
+feea eb93
+f4fd eeb5
+ee08 f672
+ebad   5d
+ee60  a4c
+f5a8 1199
+ff9f 1465
+ 9a6 11fd
+1146  b13
+1483  140
+126d f708
+ bb0 ef47
+ 1ff ebbd
+f7b2 ed5b
+ef9b f3c8
+ebb4 fd55
+ecf2  78c
+f322  fed
+fca6 141b
+ 6de 1326
+ f5a  d59
+1404  423
+136c f9bc
+ deb f10e
+ 4eb ec27
+fa9c ec3b
+f1aa f177
+ec6f fa71
+ec38  4bd
+f11d  dc7
+f9a5 1357
+ 3f9 1405
+ d45  f77
+1315  6fb
+141b fcc7
+ fff f344
+ 7ac ed04
+fd5c ebbe
+f3d0 ef99
+ed5c f7a4
+ebb1  1c9
+ef17  b73
+f6df 1250
+ 100 1471
+ ade 114c
+11e2  9cb
+1473 ffc6
+11b7 f5d4
+ a6b ee7f
+  80 eba1
+f67b ee09
+eed3 f4dd
+eb8f feb9
+ed8c  8eb
+f44c 10bb
+fde2 1450
+ 82b 12a8
+1043  c3b
+142a  2b8
+12ec f880
+ ce8 f03c
+ 37f ebd8
+f93b eccc
+f0be f29a
+ec2e fbc1
+ec84  608
+f200  ed9
+fb1a 13d2
+ 56d 13ab
+ e5f  e98
+13a4  5b5
+13e9 fb57
+ f23 f234
+ 673 ec8f
+fc1b ebf7
+f2cc f084
+ecd1 f8db
+ebcd  330
+f000  ca6
+f842 12c9
+ 266 141f
+ c0d 106c
+128d  86b
+1463 fe4e
+10ec f47e
+ 923 edb1
+ff15 eb9f
+f540 eeb5
+ee08 f629
+eb8a   3a
+ee39  a27
+f593 1180
+ff69 144d
+ 969 1215
+111c  b20
+145c  147
+1262 f730
+ bc9 ef5b
+ 22d ebb3
+f7ec ed3d
+efc9 f3ab
+ebda fd30
+ed0f  772
+f317  fb6
+fc70 1407
+ 6bd 1336
+ f4f  d71
+13ee  448
+1379 f9f2
+ e14 f12f
+ 502 ec48
+fabe ec44
+f1b9 f15a
+ec7b fa2d
+ec0f  486
+f0e0  db7
+f999 1354
+ 3e9 13f8
+ d34  f76
+130e  713
+1436 fce9
+102e f378
+ 7f4 ed21
+fdae ebb2
+f416 ef77
+ed71 f78c
+eba3  198
+ef19  b6d
+f6c6 123a
+  e0 145d
+ aaf 115b
+11d6  9ee
+1450 ffe3
+11ac f5fe
+ a72 ee90
+  96 eba7
+f6a1 edf0
+eee4 f4c8
+eba0 fe98
+ed8d  8c4
+f430 1098
+fdda 1437
+ 811 12b5
+1025  c73
+142a  2f7
+132a f8b7
+ d18 f03f
+ 3a8 ebf0
+f96b ecb8
+f0d0 f280
+ec0c fb9f
+ec6a  5ed
+f1c7  eca
+fae0 13cf
+ 537 13bb
+ e26  ea9
+138f  5dd
+13cf fb8a
+ f31 f26d
+ 6b0 eca8
+fc45 ebcc
+f2e1 f066
+ed07 f8c9
+ebd9  2ff
+efeb  c6b
+f80f 12c1
+ 23f 142e
+ bd9 1097
+1279  8a6
+1464 fe89
+1107 f4c7
+ 961 eddd
+ff45 eb9e
+f568 ee96
+ee40 f60a
+eba8 fff3
+ee30  9e7
+f54b 117d
+ff5f 1473
+ 955 1217
+10ef  b44
+145e  197
+1283 f74d
+ be1 ef67
+ 23f ebb2
+f804 ed39
+efd8 f370
+ebb7 fcf8
+ece4  74a
+f2ed  fbb
+fc4d 1416
+ 68b 1360
+ f31  dbf
+13f0  48e
+1383 fa36
+ e36 f17e
+ 53c ec3b
+fad2 ec48
+f1d9 f148
+ec8b fa10
+ec16  44f
+f0af  d81
+f954 133c
+ 39d 1416
+ d02  fae
+1309  74c
+142a fd1c
+103b f3a2
+ 810 ed57
+fde6 ebc9
+f43a ef5d
+ed91 f760
+ebc1  16c
+eef5  b1a
+f682 1216
+  94 1468
+ a7f 1188
+11cb  a25
+1481   15
+11d6 f610
+ ac8 ee98
+  db eba2
+f6cb edcb
+ef17 f49a
+eb9e fe60
+ed73  8a0
+f406 1089
+fda4 1446
+ 7cb 12dc
+102b  ca3
+1431  331
+1334 f8cf
+ d3d f05e
+ 3c7 ebf0
+f97d eca2
+f0dc f251
+ec25 fb71
+ec52  5b8
+f1af  e9f
+faa5 13ad
+ 503 13b4
+ df8  ece
+1381  601
+13eb fbb4
+ f5a f26d
+ 6b9 ecc1
+fc7d ebe0
+f327 f02f
+ed05 f872
+ebdf  2c8
+efc5  c4a
+f7d4 12a3
+ 200 1461
+ bcd 10a7
+126e  8c5
+145c fea4
+111d f4ec
+ 985 edec
+ff81 eba8
+f588 ee82
+ee52 f5d4
+eb9c ffda
+ee15  9d3
+f52b 1154
+ff12 1469
+ 923 1233
+10e0  b67
+145a  1ba
+129b f792
+ c17 ef90
+ 290 ebc1
+f851 ed04
+f014 f34f
+ebe2 fcc4
+ecd1  709
+f2b6  f89
+fc00 140e
+ 64c 1379
+ f09  de0
+13de  4b2
+1389 fa78
+ e46 f199
+ 568 ec66
+fb12 ec33
+f1fe f134
+ec8c f9ea
+ec00  42e
+f08a  d70
+f91d 1348
+ 36f 1429
+ ce9  fd9
+12fa  780
+1429 fd39
+103b f3cb
+ 839 ed5d
+fe1a ebc5
+f463 ef33
+edae f70b
+eba5  124
+eed8  b13
+f66f 11e7
+  5e 1458
+ a59 1183
+119c  a47
+1468   41
+11ef f63a
+ acc eebf
+ 10d ebac
+f6fb edbc
+ef38 f471
+ebb0 fe2b
+ed61  859
+f3e2 1062
+fd5f 143b
+ 799 12f9
+ fe5  cc1
+1405  34b
+132b f91f
+ d4f f086
+ 3fa ebf3
+f9b3 ec91
+f10a f21d
+ec1b fb29
+ec4f  58c
+f190  e8c
+fa7f 13b2
+ 4e4 13e7
+ df1  eee
+1368  632
+13f9 fc04
+ f80 f2c8
+ 6f8 ecec
+fcbb ebf4
+f35a f022
+ed23 f858
+ebcd  2a5
+efa3  c2f
+f7b4 129b
+ 1f1 1460
+ ba0 10d4
+125c  904
+1465 fedc
+112a f511
+ 9a5 ee10
+ffa7 eb98
+f59f ee62
+ee4d f5ad
+eb92 ffb9
+ee05  9b5
+f513 113b
+fee9 1463
+ 90a 123e
+10c7  b7c
+1445  1cf
+12b7 f7ba
+ c47 efa2
+ 2ac ebbf
+f867 ed12
+f01b f33f
+ebe6 fcb0
+ecdb  6f6
+f2a9  f65
+fbcc 13f7
+ 632 137d
+ ee8  dee
+13ce  4d6
+13bd fa83
+ e62 f18a
+ 572 ec67
+fb3f ec34
+f22b f0f7
+ec7d f9b2
+ebef  402
+f078  d55
+f90a 1328
+ 34d 141b
+ cb1  fe7
+12d1  7aa
+142a fd6b
+1059 f3db
+ 855 ed5d
+fe1b eba7
+f45d ef34
+edab f700
+eb91  11a
+eec2  aea
+f652 11ea
+  32 1453
+ a39 11b8
+119e  a68
+1464   62
+11f9 f660
+ aff eee9
+ 130 eb9a
+f710 ed99
+ef2a f456
+eba4 fe1d
+ed64  855
+f3e0 1051
+fd5c 143c
+ 798 12ed
+ fd7  ce4
+1425  37b
+133d f91a
+ d69 f0a2
+ 424 ec0a
+f9d6 ec76
+f11f f219
+ec40 fb11
+ec53  566
+f182  e46
+fa66 138d
+ 4bc 13d8
+ de3  ef5
+136e  656
+1410 fc06
+ fa4 f2c9
+ 720 eccb
+fcb7 ebe7
+f34d f011
+ed28 f84d
+ebbc  285
+ef91  c0b
+f782 1282
+ 1a5 1463
+ b82 10ec
+1242  922
+146f ff0c
+1150 f52a
+ 9c6 ee17
+ffce eb92
+f5d8 ee43
+ee63 f586
+eb8c ff7e
+edf3  979
+f4d8 1111
+fea0 1450
+ 8c0 1277
+10be  bc0
+1446  1f9
+12a5 f7b7
+ c41 efb6
+ 2ca ebcb
+f88b ed0c
+f044 f311
+ebf3 fc78
+ecc0  6ce
+f296  f59
+fbb0 13f1
+ 61a 138d
+ edc  df9
+13ce  4f0
+13b2 fa9d
+ ea2 f1af
+ 5bf ec5d
+fb6b ec0a
+f23d f0e3
+eca3 f981
+ebf3  3df
+f087  d3f
+f8f1 131e
+ 31e 141c
+ c92 1000
+12e3  7e4
+1428 fda6
+1080 f403
+ 883 ed8d
+fe66 ebba
+f4a2 ef01
+edcf f6cd
+ebaa   d5
+eeb3  aa8
+f626 11c9
+  1f 145f
+ a11 11ad
+1185  a95
+146b   9a
+1223 f697
+ b38 ef01
+ 169 eba7
+f744 eda1
+ef6e f433
+ebc0 fdcc
+ed2b  810
+f39d 1052
+fd2a 1437
+ 758 1312
+ fb9  d0c
+142f  3a9
+1355 f969
+ da2 f0c5
+ 44d ec0e
+f9ff ec95
+f136 f1fc
+ec39 fb04
+ec4d  54f
+f158  e3e
+fa2d 1398
+ 486 13f8
+ d9e  f26
+1343  6a5
+1423 fc47
+ fb4 f2e6
+ 744 ecda
+fcfb ebc4
+f375 efd2
+ed34 f809
+ebbb  230
+ef63  bcf
+f73f 1268
+ 167 1471
+ b51 111c
+122d  94d
+1460 ff48
+1167 f57c
+ a06 ee30
+fff0 eba2
+f601 ee45
+eea2 f57b
+eba0 ff52
+edf0  958
+f4bf 10ea
+fe60 1459
+ 88f 1296
+109e  bf3
+1442  25b
+12d1 f80b
+ c83 efdb
+ 301 ebca
+f8c3 eceb
+f059 f2d5
+ebe5 fc26
+eca4  67a
+f25d  f39
+fb93 13de
+ 5e3 1384
+ eb5  e2d
+13cc  53c
+13c9 fad8
+ ebb f1d4
+ 5fd ec87
+fbad ec0d
+f26f f0c0
+ecc7 f957
+ebf5  39a
+f02d  cf2
+f88c 131c
+ 2dd 143e
+ c51 1026
+12aa  823
+144c fdf1
+10b4 f43d
+ 8bc ed8d
+fe98 eba4
+f4cc eeea
+ede4 f695
+eb92   a8
+ee7a  a7f
+f5de 11c1
+ffdc 1477
+ 9f2 11cf
+115b  acf
+1450   fb
+123a f6da
+ b61 ef1d
+ 1a8 ebba
+f773 ed73
+ef74 f401
+ebaf fd93
+ed1d  7d7
+f365 1018
+fce0 1426
+ 71d 1324
+ f92  d39
+13fb  3d8
+134e f9a5
+ db4 f100
+ 498 ec36
+fa4c ec69
+f16b f1b5
+ec44 fab0
+ec3a  4f7
+f131  dfa
+f9e5 1371
+ 447 13fe
+ d85  f4e
+1335  6b7
+1409 fc82
+ fd4 f320
+ 787 ed0a
+fd22 ebb6
+f3af efcd
+ed52 f7d4
+ebb6  1f4
+ef43  bb6
+f732 1273
+ 14f 144b
+ b13 1139
+1224  9a1
+1476 ff6b
+117c f595
+ a35 ee67
+  50 eb9a
+f645 ee05
+eeac f521
+eb93 ff0c
+edc0  91c
+f489 10cc
+fe2c 145f
+ 87d 129a
+1071  c1a
+144d  273
+12e4 f839
+ ca3 efef
+ 32e ebe0
+f8fc ecd8
+f08d f2ba
+ec03 fc0a
+eca5  64d
+f22c  ef8
+fb4a 13eb
+ 5ac 13ae
+ e7e  e62
+13a7  578
+13cc fb17
+ ed5 f207
+ 627 ec9c
+fbf1 ebf5
+f2a2 f089
+ecc6 f929
+ebe6  35b
+f014  cca
+f866 1301
+ 2aa 143a
+ c33 1061
+12a1  850
+144d fe14
+10a6 f46b
+ 8f1 edbb
+fed3 ebb1
+f4fb eecf
+ee0b f675
+eb8a   5b
+ee60  a5c
+f5ba 11b6
+ffa1 147b
+ 998 120c
+1148  b0e
+1466  110
+123d f6ff
+ b7f ef25
+ 1bf ebad
+f79e ed77
+efa6 f3d5
+ebc7 fd5b
+ed07  7aa
+f33f  ff2
+fcb7 141b
+ 6e1 1328
+ f6d  d61
+1408  411
+136b f9cc
+ ded f12f
+ 4e8 ec37
+fa66 ec5a
+f187 f1a0
+ec66 fa82
+ec39  4c3
+f104  dff
+f9c7 1379
+ 40b 13fe
+ d4f  f84
+133e  6f9
+141e fcad
+ fef f33c
+ 7a5 ed11
+fd6b ebc3
+f3f4 efb0
+ed78 f7a3
+ebb1  1c6
+ef2b  b98
+f6fd 124e
+ 10c 146b
+ ae0 1152
+11fc  9a3
+144c ffad
+1191 f5d1
+ a6a ee74
+  7c eb89
+f66d edfa
+eecf f500
+ebac fed1
+edad  8dd
+f45d 10c1
+fe1c 1457
+ 845 129e
+104b  c3b
+143b  2bc
+1307 f86e
+ cce f01e
+ 36d ebf0
+f928 ecce
+f0b5 f285
+ebfd fbb1
+ec64  627
+f1fe  efa
+fb30 13d1
+ 571 13aa
+ e59  e84
+13bc  59d
+13ed fb3b
+ f02 f22c
+ 659 eca9
+fc26 ec04
+f2de f07b
+ece0 f8e0
+ebee  323
+f008  c88
+f830 12d7
+ 269 1448
+ c13 1078
+1288  875
+1445 fe50
+10e4 f4a2
+ 938 edc9
+ff12 eb84
+f533 eead
+ee2b f62c
+eba8    c
+ee4e  a19
+f57d 1164
+ff6a 145e
+ 990 1219
+113a  b12
+146a  147
+1266 f73b
+ bdb ef42
+ 207 ebad
+f7ed ed57
+efb8 f39a
+ebbf fd3c
+ed15  779
+f31f  fc0
+fc6c 1413
+ 6cc 133c
+ f49  d79
+13e4  44c
+138c fa18
+ e09 f141
+ 50a ec49
+facf ec3d
+f1bb f14b
+ec5b fa38
+ec2b  484
+f0db  d94
+f972 134d
+ 3cb 141b
+ d37  fad
+132b  72e
+1434 fce5
+1019 f37f
+ 7f1 ed43
+fdb9 ebc4
+f424 ef70
+ed82 f757
+eba6  187
+ef00  b57
+f6b1 1223
+  b6 145c
+ aa2 116f
+11e4  9f5
+1463 fff6
+11e0 f601
+ aa8 ee88
+  98 eb7d
+f696 ede2
+eee9 f4b1
+eb8a fe8f
+ed86  8d5
+f43d 109a
+fdc5 1444
+ 7e9 12cb
+102d  c7e
+142a  2f9
+1314 f8b9
+ d04 f039
+ 394 ebe5
+f962 ecc1
+f0df f271
+ec1b fb92
+ec7d  5e7
+f1e3  ea4
+fad4 13aa
+ 529 13b6
+ e16  eb1
+1398  5e3
+1406 fb8e
+ f30 f260
+ 696 eca5
+fc4a ebdf
+f2f4 f03f
+ecd7 f8c4
+ebca  301
+efe3  c6e
+f7f1 12da
+ 239 1464
+ be5 10a8
+1280  8b5
+144e fe77
+1101 f4c3
+ 96a ee05
+ff6b eba3
+f57a ee7b
+ee4d f5f0
+eb9f ffdc
+ee3b  9d4
+f55b 114a
+ff23 145c
+ 949 121c
+1105  b3d
+1454  179
+1277 f755
+ be4 ef62
+ 236 eba9
+f80c ed2c
+efdf f36e
+ebd0 fcef
+ece3  739
+f2f0  f9e
+fc2f 1405
+ 672 135d
+ f27  dbe
+13f2  48e
+1392 fa50
+ e4c f158
+ 548 ec3b
+faf0 ec40
+f1de f13e
+ec6d fa01
+ec00  457
+f0c5  d80
+f943 1338
+ 393 1421
+ ced  fc3
+130a  777
+1445 fd23
+1048 f38d
+ 815 ed4c
+fdf5 ebbb
+f43c ef5d
+eda5 f736
+ebb3  15f
+eeea  b16
+f68e 120f
+  94 145a
+ a7f 1188
+11cb  a29
+1487   2b
+1200 f626
+ ad2 ee9f
+  e7 eb8e
+f6dd edce
+ef28 f49d
+ebb6 fe48
+ed63  887
+f401 108d
+fd9a 1443
+ 7c1 12de
+1009  cb1
+1424  328
+131e f8e3
+ d2d f050
+ 3d3 ebe7
+f9a2 ec92
+f0e9 f22d
+ec1e fb49
+ec5e  5b2
+f1b4  e71
+fa9f 13b2
+ 50a 13d0
+ e10  ec0
+1368  613
+13f2 fbc2
+ f52 f287
+ 6c0 ecc5
+fc89 ebea
+f313 f021
+ecf5 f888
+ebb6  2ca
+efa8  c57
+f7c5 12cb
+ 220 1462
+ bbc 10b1
+124b  8dc
+1455 fecb
+113b f4fb
+ 9a9 edeb
+ff84 eb73
+f587 ee66
+ee40 f5d7
+eba8 ffd0
+ee23  9cc
+f53e 114a
+ff0d 1457
+ 907 1231
+10e7  b85
+1466  1aa
+1281 f77d
+ c21 ef97
+ 282 ebae
+f825 ed18
+eff4 f361
+ebe5 fcd8
+eccb  713
+f2c7  f9b
+fc17 13f4
+ 649 1361
+ ef4  de5
+13e6  4bf
+1399 fa67
+ e62 f191
+ 57f ec5f
+fb28 ec2c
+f20c f12e
+ec91 f9d6
+ebf7  412
+f097  d71
+f927 133b
+ 36a 1421
+ cd8  fe6
+12f0  781
+142b fd4f
+105e f3d2
+ 848 ed60
+fe21 eb98
+f465 ef1d
+ed87 f702
+eba4  133
+eee2  aef
+f662 11de
+  59 1465
+ a63 119d
+11c1  a43
+146e   40
+11f3 f646
+ ae2 eeae
+ 121 eb90
+f6ee edb5
+ef29 f46f
+eb99 fe0d
+ed49  846
+f3c8 1067
+fd5d 1439
+ 79f 12f0
+100d  cc1
+1424  335
+132f f912
+ d77 f07c
+ 41a ebe6
+f9cb ec82
+f113 f209
+ec2e fb29
+ec59  574
+f196  e69
+fa73 139f
+ 4d3 13e2
+ def  efb
+1375  630
+1404 fbde
+ f57 f2a0
+ 6eb ecd3
+fcad ebd2
+f332 f012
+ed1d f865
+ebb6  295
+ef9a  c37
+f7b8 12ad
+ 1d9 1457
+ b70 10de
+1254  920
+145d fef3
+1147 f50f
+ 9ad ee00
+ffa0 eb9e
+f5bc ee5f
+ee60 f5aa
+eba2 ff9d
+ee18  99a
+f500 1135
+fee4 1472
+ 8fe 1258
+10bd  ba2
+1451  1f7
+129d f7ad
+ c23 efac
+ 2a0 ebce
+f872 ed04
+f018 f331
+ebda fcb3
+ecd2  6e0
+f290  f58
+fbc8 1406
+ 636 137e
+ ef9  df1
+13c1  4e2
+13a8 fa88
+ e7a f1a8
+ 599 ec7c
+fb68 ec2d
+f240 f0fc
+ec95 f9a7
+ec0d  3f3
+f07e  d46
+f8fa 1330
+ 344 141a
+ cb3  fe6
+12da  7c1
+1443 fd93
+1079 f3ed
+ 85a ed63
+fe3a eba9
+f490 ef1b
+edb2 f6d8
+eb8c   f1
+eea2  adc
+f631 11e5
+  4b 145c
+ a31 11ac
+1183  a5f
+1460   8f
+1224 f68a
+ b18 eed2
+ 161 eb9c
+f725 ed98
+ef42 f44b
+ebb1 fe09
+ed61  83f
+f3ba 1056
+fd3e 1432
+ 78d 12f6
+ fcd  ce4
+140a  38f
+1353 f957
+ d80 f098
+ 428 ec0f
+fa02 ec79
+f127 f1e3

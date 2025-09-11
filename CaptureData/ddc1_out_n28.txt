@@ -1,0 +1,2048 @@
+   1    3
+   0    3
+ffff    3
+fffd    3
+fffd    3
+fffd    3
+fffe    3
+fffd    3
+fffe    3
+fffe    3
+   0    3
+   1    3
+   1    3
+   2    3
+   3    3
+   4    3
+   4    3
+   4    3
+   5    2
+   5    1
+   5    1
+   5    1
+   4    1
+   3    1
+   3    1
+   2    1
+   1    1
+ffff    1
+fffe    2
+fffd    2
+fffd    3
+fffb    4
+fffb    5
+fffa    6
+fffb    7
+fffb    8
+fffb    a
+fffb    b
+fffc    c
+fffc    d
+fffd    d
+fffd    d
+ffff    d
+   0    c
+   1    b
+   2    a
+   2    9
+   3    8
+   3    6
+   3    4
+   3    2
+   3 ffff
+   3 fffd
+   3 fffb
+   3 fffa
+   3 fff8
+   2 fff7
+   1 fff6
+   1 fff6
+   1 fff6
+   1 fff7
+   1 fff8
+   1 fffa
+   1 fffb
+   2 fffd
+   3 fffe
+   3    1
+   4    3
+   4    5
+   4    6
+   5    7
+   6    7
+   7    7
+   8    7
+   8    6
+   9    5
+   9    3
+   9    2
+   9    0
+   9 fffd
+   9 fffc
+   9 fffa
+   8 fff9
+   8 fff7
+   7 fff6
+   6 fff5
+   5 fff6
+   4 fff5
+   3 fff6
+   3 fff6
+   2 fff8
+   1 fff9
+   0 fffb
+ffff fffc
+ffff ffff
+fffd    1
+fffd    2
+fffc    3
+fffd    4
+fffc    4
+fffc    4
+fffb    4
+fffc    4
+fffb    4
+fffb    3
+fffa    2
+fffb    1
+fffa ffff
+fffa fffe
+fff9 fffd
+fffa fffc
+fff9 fffa
+fffa fffa
+fffa fff9
+fffb fffa
+fffb fff9
+fffb fff9
+fffb fff9
+fffc fffa
+fffc fffa
+fffd fffa
+fffd fffa
+ffff fffb
+ffff fffb
+   0 fffb
+   1 fffb
+   1 fffb
+   1 fffa
+   1 fffa
+   1 fffa
+   0 fffa
+fffe fff9
+fffe fff9
+fffd fff9
+fffd fffa
+fffc fff9
+fffb fffa
+fffa fffa
+fffa fffc
+fff9 fffd
+fff9 fffe
+fff9 ffff
+fff9    1
+fff8    2
+fff9    3
+fffa    4
+fffb    4
+fffb    4
+fffb    4
+fffb    4
+fffd    3
+fffd    2
+fffe    0
+fffe fffe
+ffff fffd
+fffe fffa
+fffe fff9
+fffe fff7
+fffe fff7
+fffd fff5
+fffc fff5
+fffb fff4
+fffc fff5
+fffb fff4
+fffb fff5
+fffa fff6
+fffb fff8
+fffa fff9
+fffb fffa
+fffb fffb
+fffd fffd
+fffd fffe
+ffff ffff
+   0 ffff
+   2    1
+   3    2
+   4    2
+   5    2
+   6    1
+   7 ffff
+   7 ffff
+   7 fffe
+   7 fffe
+   7 fffd
+   6 fffd
+   5 fffc
+   3 fffd
+   1 fffc
+   0 fffd
+ffff fffd
+fffe fffe
+fffc fffe
+fffc ffff
+fffb ffff
+fffb    1
+fffa    2
+fffa    2
+fffa    2
+fffb    1
+fffb ffff
+fffc ffff
+fffd fffe
+ffff fffe
+   1 fffc
+   2 fffb
+   3 fffa
+   4 fffa
+   5 fff8
+   6 fff8
+   7 fff7
+   7 fff8
+   7 fff7
+   7 fff8
+   7 fff8
+   7 fffa
+   7 fffa
+   6 fffc
+   6 fffd
+   6    0
+   6    2
+   6    3
+   6    4
+   6    4
+   6    4
+   6    4
+   6    4
+   6    3
+   6    2
+   6    1
+   6 ffff
+   5 fffe
+   4 fffb
+   3 fffa
+   2 fff8
+   1 fff8
+ffff fff6
+fffe fff6
+fffc fff5
+fffc fff6
+fffa fff6
+fff9 fff7
+fff7 fff8
+fff7 fffa
+fff6 fffb
+fff6 fffc
+fff6 fffd
+fff7 ffff
+fff7    1
+fff8    2
+fff8    3
+fffa    3
+fffa    3
+fffc    3
+fffd    2
+   0    1
+   2 ffff
+   3 ffff
+   4 fffe
+   5 fffd
+   6 fffb
+   6 fffb
+   6 fffa
+   6 fffa
+   6 fff9
+   6 fffa
+   6 fffa
+   5 fffc
+   5 fffc
+   4 fffd
+   3 fffd
+   2 ffff
+   1 ffff
+   1    0
+   1    1
+   0    1
+ffff    1
+ffff    0
+ffff ffff
+ffff fffe
+fffe fffc
+fffe fffb
+fffd fffa
+fffd fff9
+fffb fff7
+fffb fff6
+fffb fff5
+fffb fff5
+fffa fff4
+fff9 fff4
+fff8 fff4
+fff9 fff5
+fff8 fff5
+fff8 fff6
+fff8 fff7
+fff8 fff9
+fff7 fffa
+fff7 fffb
+fff7 fffc
+fff8 fffd
+fff8 fffc
+fff8 fffd
+fff8 fffd
+fff9 fffe
+fff9 fffd
+fff9 fffc
+fff9 fffb
+fff9 fffb
+fff8 fff9
+fff8 fff8
+fff8 fff7
+fff9 fff6
+fff9 fff4
+fff9 fff3
+fff9 fff2
+fff9 fff3
+fff8 fff2
+fff8 fff3
+fff8 fff3
+fff9 fff5
+fff9 fff6
+fffa fff7
+fffa fff8
+fffc fff9
+fffd fff9
+fffe fffa
+fffe fffb
+   0 fffc
+   1 fffc
+   2 fffc
+   3 fffc
+   3 fffd
+   4 fffc
+   4 fffc
+   4 fffb
+   4 fffc
+   4 fffb
+   3 fffb
+   2 fffb
+   1 fffc
+ffff fffc
+fffe fffd
+fffd fffd
+fffd ffff
+fffb    1
+fffb    2
+fffa    3
+fffb    5
+fffa    7
+fffa    8
+fffa    9
+fffa    9
+fff9    9
+fff9    9
+fff9    9
+fffa    9
+fffa    9
+fffa    8
+fffa    7
+fffb    5
+fffa    3
+fffb    2
+fffb    1
+fffd ffff
+fffd fffd
+fffe fffd
+fffe fffc
+   0 fffd
+   1 fffc
+   2 fffd
+   3 fffd
+   3 fffe
+   3 fffd
+   4 fffe
+   5 fffe
+   5    0
+   5    1
+   5    1
+   5    1
+   4    1
+   4    0
+   3    0
+   2 ffff
+   1 ffff
+ffff fffd
+fffe fffc
+fffc fffb
+fffc fffb
+fffa fffa
+fffa fff9
+fff9 fff8
+fff9 fff9
+fff8 fff9
+fff8 fff9
+fff8 fff9
+fffa fffa
+fffa fffa
+fffb fffb
+fffc fffb
+fffe fffc
+ffff fffc
+   0 fffc
+   1 fffc
+   2 fffc
+   3 fffb
+   3 fffb
+   3 fffb
+   3 fffb
+   2 fffa
+   1 fff9
+ffff fff7
+fffe fff7
+fffb fff5
+fffa fff5
+fff8 fff4
+fff8 fff4
+fff6 fff3
+fff5 fff3
+fff3 fff3
+fff3 fff4
+fff2 fff4
+fff2 fff5
+fff2 fff5
+fff3 fff7
+fff3 fff7
+fff4 fff9
+fff5 fffa
+fff7 fffc
+fff7 fffc
+fff9 fffd
+fffa fffe
+fffc ffff
+fffc ffff
+fffd ffff
+fffd ffff
+fffe ffff
+fffd fffe
+fffd fffe
+fffc fffd
+fffd fffd
+fffc fffb
+fffc fffb
+fffb fffa
+fffb fffb
+fff9 fffa
+fff9 fffa
+fff8 fffa
+fff9 fffb
+fff8 fffa
+fff9 fffb
+fff9 fffb
+fffa fffd
+fff9 fffd
+fffa fffe
+fffa fffe
+fffc    0
+fffc    1
+fffd    1
+fffd    1
+fffe    1
+fffe    1
+fffe    0
+fffe ffff
+fffe ffff
+fffd fffd
+fffd fffd
+fffd fffc
+fffd fffc
+fffc fffa
+fffc fffa
+fffc fff9
+fffd fffa
+fffd fff9
+fffd fffa
+fffd fffa
+fffe fffb
+fffd fffa
+fffe fffb
+fffe fffb
+   0 fffc
+   1 fffb
+   1 fffc
+   1 fffc
+   2 fffe
+   2 fffe
+   2 ffff
+   2 ffff
+   2    0
+   2    1
+   2    1
+   2    1
+   1    1
+ffff    1
+ffff    1
+fffe    1
+fffe    1
+fffd    1
+fffd    2
+fffc    2
+fffd    2
+fffc    2
+fffd    2
+fffd    2
+fffe    2
+fffd    2
+fffe    2
+fffe    2
+ffff    2
+fffe    2
+ffff    1
+ffff    0
+   1 ffff
+   2 fffd
+   2 fffc
+   3 fffb
+   3 fffb
+   3 fff9
+   3 fff9
+   3 fff8
+   4 fff9
+   5 fff8
+   5 fff8
+   6 fff7
+   6 fff8
+   6 fff7
+   6 fff8
+   6 fff9
+   6 fffb
+   6 fffc
+   6 fffd
+   6 fffe
+   6    1
+   6    3
+   5    4
+   4    5
+   4    6
+   4    7
+   3    8
+   2    9
+   2    a
+   2    b
+   1    b
+   0    b
+ffff    a
+fffd    9
+fffd    8
+fffd    7
+fffd    6
+fffc    5
+fffc    3
+fffc    2
+fffd    0
+fffd fffe
+fffd fffd
+fffd fffb
+fffe fffb
+fffe fff9
+ffff fff9
+ffff fff8
+   1 fff8
+   2 fff7
+   2 fff7
+   2 fff7
+   2 fff8
+   2 fff7
+   3 fff8
+   4 fff8
+   4 fffa
+   4 fffa
+   4 fffb
+   4 fffc
+   4 fffe
+   4 fffe
+   4 ffff
+   4    0
+   5    1
+   5    1
+   5    1
+   5    1
+   4    1
+   3    0
+   3 ffff
+   3 fffe
+   3 fffe
+   3 fffc
+   2 fffb
+   2 fffa
+   1 fffa
+ffff fff9
+ffff fff8
+fffe fff7
+fffe fff7
+fffc fff6
+fffc fff6
+fffb fff5
+fffb fff6
+fff9 fff5
+fff9 fff6
+fff8 fff6
+fff9 fff8
+fff8 fff8
+fff8 fff9
+fff8 fffa
+fff8 fffb
+fff7 fffb
+fff7 fffc
+fff7 fffd
+fff8 fffe
+fff7 fffe
+fff8 fffe
+fff8 fffe
+fffa ffff
+fffa ffff
+fffb ffff
+fffb ffff
+fffc ffff
+fffb fffe
+fffc fffe
+fffc fffe
+fffd ffff
+fffc fffe
+fffc ffff
+fffc ffff
+fffc    1
+fffb    2
+fffa    2
+fff9    2
+fffa    3
+fff9    4
+fff9    4
+fff9    4
+fffa    4
+fffa    4
+fffa    4
+fffa    4
+fffb    4
+fffb    4
+fffc    3
+fffd    3
+ffff    2
+   0    1
+   1    0
+   2 ffff
+   3 fffe
+   4 fffc
+   4 fffc
+   4 fffb
+   5 fffb
+   5 fffa
+   5 fffa
+   5 fffa
+   4 fffb
+   4 fffa
+   3 fffb
+   2 fffb
+   2 fffd
+   2 fffd
+   1 fffd
+   0 fffd
+ffff ffff
+fffe    0
+fffe    1
+fffe    2
+fffe    2
+fffd    2
+fffe    2
+fffe    2
+ffff    2
+ffff    1
+ffff    1
+ffff    1
+ffff    1
+fffe    1
+fffe    1
+fffd    1
+fffd    2
+fffc    3
+fffb    3
+fff9    4
+fff9    4
+fff7    4
+fff7    5
+fff6    6
+fff6    7
+fff5    8
+fff6    8
+fff6    9
+fff7    9
+fff7    9
+fff8    9
+fff9    9
+fffb    9
+fffc    9
+fffe    8
+   0    8
+   3    7
+   5    6
+   6    5
+   7    4
+   8    3
+   9    1
+   9    0
+   9 fffe
+   8 fffe
+   7 fffc
+   6 fffc
+   5 fffc
+   4 fffc
+   3 fffb
+   1 fffb
+ffff fffb
+fffe fffc
+fffc fffb
+fffb fffc
+fff9 fffc
+fff9 fffe
+fff7 fffe
+fff7 ffff
+fff6 ffff
+fff7    1
+fff6    2
+fff7    2
+fff7    3
+fff8    3
+fff8    3
+fff9    3
+fff9    3
+fffa    3
+fff9    3
+fffa    2
+fffa    1
+fffb    0
+fffb fffe
+fffb fffd
+fffb fffc
+fffc fffb
+fffc fff9
+fffc fff8
+fffc fff7
+fffc fff7
+fffb fff6
+fffb fff6
+fffb fff5
+fffc fff6
+fffc fff5
+fffc fff6
+fffc fff7
+fffc fff9
+fffb fffa
+fffb fffc
+fffb fffd
+fffc    0
+fffb    2
+fffc    4
+fffc    6
+fffd    7
+fffc    8
+fffc    9
+fffc    9
+fffd    9
+fffc    8
+fffd    8
+fffd    8
+ffff    7
+ffff    6
+   0    5
+   1    4
+   2    2
+   3 ffff
+   3 fffe
+   3 fffd
+   4 fffc
+   4 fffa
+   4 fff9
+   4 fff8
+   3 fff9
+   2 fff8
+   2 fff9
+   2 fff9
+   1 fffb
+ffff fffb
+ffff fffc
+fffe fffc
+fffe fffe
+fffd fffe
+fffd ffff
+fffc ffff
+fffd    1
+fffc    1
+fffd    1
+fffd    0
+fffe ffff
+fffe fffd
+ffff fffd
+ffff fffc
+   1 fffc
+   2 fffb
+   3 fffa
+   4 fff9
+   4 fff9
+   5 fff8
+   5 fff8
+   5 fff7
+   5 fff8
+   5 fff7
+   5 fff8
+   4 fff8
+   4 fffa
+   4 fffa
+   4 fffb
+   4 fffc
+   3 fffd
+   2 fffd
+   2 fffd
+   2 fffd
+   2 fffe
+   2 fffd
+   2 fffd
+   2 fffd
+   3 fffd
+   4 fffc
+   4 fffb
+   4 fffa
+   4 fffa
+   4 fff8
+   4 fff8
+   4 fff7
+   3 fff8
+   2 fff8
+   2 fff8
+   1 fff8
+   0 fff9
+fffe fff9
+fffe fffa
+fffe fffb
+fffe fffd
+fffd ffff
+fffd    1
+fffd    3
+fffe    4
+fffe    5
+fffe    6
+fffe    7
+   0    8
+   1    9
+   2    9
+   3    a
+   3    a
+   4    a
+   4    a
+   4    a
+   4    a
+   4    a
+   3    a
+   2    a
+   1    9
+ffff    8
+fffe    8
+fffd    8
+fffc    8
+fffa    8
+fff9    8
+fff7    8
+fff7    8
+fff5    8
+fff5    7
+fff4    6
+fff5    6
+fff4    6
+fff5    5
+fff5    4
+fff6    3
+fff6    2
+fff6    1
+fff6    0
+fff7 ffff
+fff7 fffd
+fff7 fffd
+fff7 fffc
+fff7 fffd
+fff6 fffc
+fff6 fffc
+fff6 fffb
+fff6 fffc
+fff5 fffc
+fff4 fffd
+fff3 fffd
+fff4 ffff
+fff4    0
+fff4    1
+fff4    2
+fff5    2
+fff5    2
+fff6    3
+fff7    4
+fff8    4
+fff8    4
+fff9    4
+fffa    4
+fffb    4
+fffb    4
+fffc    4
+fffd    4
+fffe    3
+fffe    2
+fffe    2
+fffe    2
+ffff    1
+fffe ffff
+fffe ffff
+fffd fffe
+fffd ffff
+fffc fffe
+fffc fffe
+fffc fffd
+fffd fffe
+fffc fffd
+fffd fffd
+fffd fffd
+ffff fffd
+ffff fffc
+   0 fffc
+   1 fffc
+   2 fffc
+   3 fffb
+   4 fffb
+   5 fffb
+   5 fffc
+   5 fffc
+   5 fffc
+   5 fffc
+   5 fffd
+   5 fffc
+   4 fffd
+   3 fffd
+   3 ffff
+   2    0
+   2    1
+   2    2
+   1    3
+ffff    4
+ffff    4
+fffe    4
+ffff    4
+fffe    4
+ffff    4
+ffff    4
+   0    3
+   1    2
+   1    2
+   2    2
+   2    1
+   2    0
+   2 ffff
+   2 fffe
+   2 fffd
+   2 fffb
+   2 fffb
+   2 fffb
+   1 fffb
+ffff fffa
+ffff fffa
+ffff fffa
+ffff fffb
+fffe fffb
+fffe fffb
+fffe fffb
+ffff fffc
+fffe fffc
+ffff fffc
+ffff fffb
+   1 fffc
+   2 fffb
+   2 fffc
+   2 fffc
+   2 fffc
+   1 fffb
+   1 fffb
+   1 fffb
+   0 fffb
+fffe fffa
+fffd fffa
+fffc fff9
+fffb fffa
+fff8 fff9
+fff7 fffa
+fff5 fffa
+fff5 fffb
+fff3 fffb
+fff2 fffc
+fff1 fffd
+fff1 fffe
+fff0 fffe
+fff0 ffff
+fff0 ffff
+fff1    1
+fff1    2
+fff2    2
+fff3    2
+fff5    3
+fff6    4
+fff7    4
+fff8    4
+fffa    5
+fffa    6
+fffb    6
+fffb    6
+fffc    6
+fffb    6
+fffb    6
+fffa    6
+fffb    7
+fffa    7
+fffa    8
+fff9    9
+fff9    9
+fff8    9
+fff7    9
+fff6    9
+fff6    9
+fff5    9
+fff5    8
+fff4    7
+fff5    6
+fff4    4
+fff5    3
+fff5    2
+fff5    0
+fff4 fffd
+fff4 fffc
+fff4 fffa
+fff5 fffa
+fff5 fff8
+fff5 fff8
+fff5 fff7
+fff5 fff7
+fff4 fff6
+fff4 fff6
+fff3 fff6
+fff4 fff8
+fff3 fff9
+fff4 fffa
+fff4 fffb
+fff5 fffd
+fff5 fffe
+fff6    0
+fff7    2
+fff8    3
+fff8    4
+fff9    5
+fff9    6
+fffb    6
+fffb    6
+fffc    6
+fffc    5
+fffd    4
+fffc    2
+fffd    1
+fffd ffff
+fffd fffe
+fffb fffb
+fffb fffa
+fffa fff8
+fffb fff8
+fffa fff7
+fffa fff6
+fffa fff5
+fffb fff5
+fffa fff4
+fffa fff5
+fffa fff5
+fffb fff6
+fffb fff6
+fffb fff7
+fffb fff8
+fffd fffa
+fffd fffb
+fffe fffc
+fffe fffd
+ffff fffe
+ffff fffe
+ffff fffe
+ffff fffe
+ffff ffff
+fffd fffe
+fffd fffe
+fffc fffd
+fffd fffe
+fffc fffd
+fffc fffd
+fffb fffc
+fffc fffc
+fffb fffa
+fffb fffa
+fffa fff9
+fffb fffa
+fffa fff9
+fffb fffa
+fffb fffa
+fffc fffb
+fffc fffb
+fffc fffc
+fffc fffc
+fffc fffd
+fffb fffc
+fffb fffd
+fffb fffe
+fffc ffff
+fffb ffff
+fffb ffff
+fffa ffff
+fffb    1
+fffa    2
+fffa    2
+fff9    2
+fffa    2
+fffa    2
+fffb    2
+fffb    2
+fffd    1
+fffd    1
+ffff    1
+   0    1
+   2    1
+   4    1
+   5    1
+   6    1
+   7    1
+   8    1
+   9    1
+   9    2
+   9    2
+   8    2
+   8    2
+   8    2
+   7    2
+   6    2
+   5    1
+   4    0
+   2 ffff
+   0 fffd
+ffff fffd
+fffe fffc
+fffd fffd
+fffb fffc
+fffb fffc
+fffa fffb
+fffb fffc
+fffa fffb
+fffb fffc
+fffb fffc
+fffc fffd
+fffc fffd
+fffd fffe
+fffd ffff
+fffe    1
+fffe    3
+fffe    4
+fffe    5
+fffe    6
+fffd    7
+fffd    8
+fffc    9
+fffc    9
+fffb    a
+fffa    a
+fff9    a
+fff9    a
+fff8    a
+fff8    9
+fff7    8
+fff8    7
+fff7    6
+fff8    5
+fff8    4
+fff9    2
+fff9    0
+fffa ffff
+fffa fffe
+fffc fffd
+fffc fffb
+fffe fffb
+ffff fffa
+   1 fffb
+   2 fffa
+   2 fffa
+   3 fffa
+   3 fffa
+   3 fff9
+   3 fff9
+   3 fff9
+   3 fff9
+   3 fff8
+   2 fff8
+   1 fff8
+   1 fff9
+   0 fff8
+   0 fff8
+ffff fff8
+   0 fff9
+ffff fff8
+   0 fff9
+   0 fff9
+   1 fffb
+   2 fffb
+   2 fffc
+   2 fffd
+   3 ffff
+   4    0
+   4    1
+   4    2
+   4    3
+   4    4
+   4    4
+   4    4
+   4    5
+   4    6
+   3    6
+   2    6
+   1    6
+ffff    6
+ffff    5
+fffe    4
+fffe    4
+fffd    4
+fffd    3
+fffc    2
+fffd    2
+fffc    2
+fffd    1
+fffd    0
+fffe ffff
+fffe fffd
+ffff fffd
+ffff fffd
+   1 fffd
+   2 fffc
+   2 fffb
+   2 fffa
+   2 fffa
+   2 fff9
+   2 fff8
+   2 fff7
+   2 fff7
+   2 fff5
+   1 fff5
+   0 fff4
+ffff fff5
+fffd fff4
+fffd fff5
+fffc fff5
+fffc fff6
+fffb fff6
+fffb fff7
+fffa fff8
+fffa fffa
+fff9 fffb
+fff9 fffd
+fff9 fffe
+fff9    1
+fff8    3
+fff9    4
+fffa    5
+fffb    6
+fffb    6
+fffb    6
+fffb    6
+fffd    5
+fffd    4
+fffe    2
+fffe    1
+   0 ffff
+   1 fffc
+   1 fffb
+   1 fff9
+   1 fff8
+   1 fff6
+   1 fff5
+   1 fff4
+   1 fff4
+   1 fff3
+   0 fff4
+ffff fff5
+ffff fff7
+fffd fff8
+fffd fffa
+fffc fffb
+fffc fffe
+fffb    1
+fffb    3
+fffa    5
+fffb    7
+fffa    9
+fffb    a
+fffb    a
+fffc    a
+fffc    a
+fffd    9
+fffd    8
+fffe    6
+fffd    5
+fffe    3
+fffe    1
+ffff ffff
+fffe fffd
+ffff fffc
+ffff fffb
+   0 fffa
+ffff fff8
+ffff fff8
+ffff fff8
+ffff fff9
+fffe fff9
+fffd fffa
+fffc fffb
+fffd fffe
+fffc ffff
+fffc    1
+fffb    2
+fffc    4
+fffb    5
+fffc    6
+fffc    7
+fffe    7
+fffe    7
+   0    7
+   1    7
+   3    7
+   4    7
+   5    6
+   6    5
+   7    5
+   8    5
+   8    4
+   9    3
+   9    3
+   9    2
+   8    2
+   8    2
+   7    1
+   6    0
+   5    0
+   4 ffff
+   3 ffff
+   2 fffd
+   1 fffd
+   0 fffc
+ffff fffd
+fffd fffc
+fffd fffc
+fffc fffb
+fffd fffc
+fffc fffb
+fffc fffb
+fffb fffa
+fffc fffb
+fffb fffa
+fffc fffb
+fffc fffb
+fffc fffc
+fffb fffb
+fffb fffc
+fffb fffc
+fffb fffd
+fffa fffd
+fffa fffd
+fffa fffd
+fffb fffd
+fffa fffc
+fffa fffb
+fffa fffa
+fffb fffa
+fffa fff9
+fffb fff8
+fffb fff7
+fffd fff7
+fffd fff6
+fffe fff5
+fffe fff4
+   0 fff4
+   1 fff3
+   1 fff3
+   1 fff3
+   1 fff5
+   0 fff5
+   0 fff6
+ffff fff7
+ffff fff9
+fffd fffa
+fffc fffb
+fffa fffc
+fffa fffe
+fff8 fffe
+fff7 ffff
+fff5    0
+fff5    1
+fff4    1
+fff4    1
+fff4    1
+fff4    1
+fff3    0
+fff4 ffff
+fff4 fffe
+fff6 ffff
+fff6 ffff
+fff8 ffff
+fffa ffff
+fffd    0
+ffff    1
+   1    1
+   3    1
+   4    2
+   5    2
+   6    3
+   7    4
+   7    4
+   7    4
+   7    4
+   7    4
+   7    4
+   7    3
+   6    2
+   5    1
+   4    0
+   3 fffe
+   2 fffd
+   2 fffc
+   1 fffb
+ffff fff9
+ffff fff9
+fffe fff9
+ffff fffa
+ffff fff9
+ffff fffa
+ffff fffb
+   0 fffd
+   1 fffe
+   1 ffff
+   1    1
+   2    3
+   3    4
+   3    5
+   3    6
+   4    6
+   5    6
+   5    5
+   5    4
+   5    3
+   5    1
+   5 ffff
+   5 fffd
+   5 fffb
+   5 fff8
+   5 fff6
+   5 fff4
+   5 fff3
+   5 fff1
+   4 fff1
+   4 fff0
+   3 fff1
+   2 fff1
+   1 fff2
+   1 fff3
+   0 fff6
+fffe fff7
+fffe fff9
+fffd fffb
+fffe fffe
+fffd    0
+fffd    2
+fffd    4
+fffe    5
+fffe    6
+fffe    6
+fffe    6
+   0    6
+   1    6
+   2    5
+   2    4
+   3    3
+   4    2
+   4    2
+   4    2
+   4    2
+   4    2
+   4    3
+   3    4
+   2    5
+   0    6
+ffff    8
+fffd    a
+fffd    b
+fffb    c
+fffb    d
+fffa    e
+fffa    e
+fff9    e
+fff9    e
+fff9    d
+fffa    c
+fffa    b
+fffb    9
+fffc    7
+fffe    5
+ffff    2
+   1    0
+   2 fffd
+   3 fffc
+   4 fffa
+   5 fff9
+   6 fff8
+   6 fff9
+   6 fff8
+   5 fff9
+   4 fff9
+   3 fffb
+   1 fffb
+   0 fffd
+fffe fffe
+fffd    1
+fffa    3
+fff9    4
+fff7    5
+fff7    6
+fff5    6
+fff5    6
+fff5    6
+fff6    5
+fff5    4
+fff6    3
+fff7    2
+fff9    1
+fffa ffff
+fffc fffe
+fffd fffc
+   0 fffc
+   2 fffb
+   3 fffb
+   4 fffb
+   5 fffc
+   6 fffc
+   6 fffe
+   6 ffff
+   5    1
+   4    3
+   3    4
+   2    5
+   1    6
+ffff    7
+fffe    7
+fffd    7
+fffd    7
+fffc    7
+fffc    7
+fffb    6
+fffc    5
+fffb    3
+fffc    2
+fffc    1
+fffe ffff
+fffe fffd
+ffff fffc
+ffff fffa
+   1 fffa
+   2 fff8
+   2 fff8
+   2 fff7
+   2 fff7
+   2 fff6
+   1 fff7
+   0 fff7
+ffff fff8
+fffd fff7
+fffd fff8
+fffc fff8
+fffc fffa
+fffa fffa
+fffa fffb
+fff9 fffc
+fffa fffd
+fff9 fffd
+fff9 fffd
+fff9 fffd
+fffa fffe
+fffa fffd
+fffb fffd
+fffc fffd
+fffe fffe
+ffff fffe
+   0 fffe
+   1 fffe
+   2 fffe
+   3 fffd
+   3 fffd
+   4 fffc
+   4 fffc
+   4 fffa
+   4 fffa
+   4 fff9
+   3 fff9
+   2 fff7
+   2 fff7
+   2 fff6
+   1 fff7
+ffff fff6
+ffff fff6
+fffe fff6
+ffff fff7
+fffe fff7
+ffff fff8
+ffff fff8
+   1 fffa
+   2 fffa
+   2 fffc
+   2 fffd
+   3    0
+   4    2
+   5    3
+   6    4
+   6    6
+   7    7
+   7    8
+   7    8
+   6    8
+   6    8
+   5    7
+   4    7
+   3    6
+   2    5
+   1    4
+ffff    3
+fffe    1
+fffc ffff
+fffb fffe
+fffa fffd
+fffa fffc
+fff9 fffa
+fff9 fff9
+fff8 fff8
+fff9 fff9
+fff8 fff8
+fff9 fff9
+fff9 fff9
+fffb fffb
+fffb fffb
+fffc fffc
+fffd fffc
+ffff fffe
+   0 ffff
+   1    1
+   2    2
+   3    3
+   4    4
+   4    4
+   4    4
+   5    5
+   5    6
+   5    6
+   5    6
+   4    6
+   4    6
+   3    6
+   2    6
+   1    5
+ffff    4
+ffff    4
+fffe    4
+fffe    3
+fffd    2
+fffd    2
+fffc    2
+fffd    1
+fffc ffff
+fffd ffff
+fffd fffe
+fffd fffe
+fffc fffd
+fffc fffd
+fffb fffd
+fffc fffd
+fffb fffc
+fffb fffc
+fffa fffc
+fffa fffd
+fff8 fffd
+fff8 fffd
+fff7 fffd
+fff7 ffff
+fff6    0
+fff5    1
+fff4    1
+fff4    2
+fff3    3
+fff3    3
+fff3    3
+fff4    3
+fff3    3
+fff4    3
+fff4    3
+fff6    3
+fff6    2
+fff7    2
+fff7    2
+fff9    1
+fff9 ffff
+fffa ffff
+fffa fffe
+fffb ffff
+fffb fffe
+fffb fffe
+fffb fffe
+fffb ffff
+fffa ffff
+fffa    0
+fffa    1
+fffa    1
+fff9    1
+fff9    1
+fff8    1
+fff9    1
+fff8    1
+fff9    0
+fff9 ffff
+fffb ffff
+fffb fffd
+fffc fffd
+fffd fffc
+fffe fffc
+fffe fffa
+ffff fffa
+   0 fff9
+   2 fff9
+   3 fff8
+   3 fff7
+   3 fff6
+   4 fff6
+   4 fff5
+   4 fff5
+   4 fff5
+   3 fff6
+   2 fff6
+   2 fff6
+   1 fff6
+   0 fff7
+fffe fff6
+fffd fff7
+fffc fff7
+fffc fff9
+fffa fff9
+fffa fffa
+fff9 fffa
+fffa fffc
+fff9 fffc
+fff9 fffd
+fff9 fffd
+fff9 fffe
+fff8 fffd
+fff8 fffe
+fff8 fffe
+fff9 ffff
+fff8 ffff
+fff8 ffff
+fff8 ffff
+fff9 ffff
+fff9 fffe
+fff9 fffe
+fff9 fffd
+fffa fffe
+fffa fffd
+fffa fffd
+fffa fffc
+fffb fffc
+fffb fffa
+fffb fffa
+fffb fff9
+fffc fffa
+fffc fff9
+fffc fff9
+fffc fff9
+fffd fffa
+fffd fff9
+fffd fffa
+fffd fffa
+fffd fffc
+fffc fffc
+fffc fffd
+fffc fffe
+fffd ffff
+fffd ffff
+fffd ffff
+fffd ffff
+fffe    0
+fffd ffff
+fffe ffff
+fffe ffff
+ffff ffff
+fffe fffe
+ffff fffd
+ffff fffc
+   1 fffc
+   2 fffb
+   2 fffa
+   2 fff9
+   2 fff9
+   2 fff8
+   2 fff8
+   2 fff7
+   1 fff8
+ffff fff7
+ffff fff8
+ffff fff8
+ffff fffa
+fffe fffa
+fffe fffb
+fffe fffb
+ffff fffd
+ffff fffe
+ffff ffff
+ffff    0
+   1    1
+   2    2
+   3    2
+   3    2
+   4    2
+   5    1
+   5    1
+   5    1
+   5    0
+   5 fffe
+   5 fffe
+   5 fffd
+   4 fffe
+   3 fffd
+   3 fffd
+   3 fffd
+   2 fffe
+   1 fffe
+   1 fffe
+   1 fffd
+   1 fffe
+   1 fffd
+   1 fffe
+   1 fffe
+   2 fffe
+   2 fffd
+   3 fffd
+   4 fffd
+   5 fffd
+   6 fffc
+   6 fffc
+   7 fffb
+   7 fffc
+   7 fffb
+   6 fffb
+   5 fffa
+   4 fffb
+   3 fffa
+   1 fffb
+ffff fffb
+fffd fffc
+fffa fffc
+fff8 fffd
+fff6 fffd
+fff4 ffff
+fff1    0
+fff0    1
+ffef    2
+ffef    3
+ffee    4
+ffef    5
+fff0    6
+fff2    6
+fff2    6
+fff4    6
+fff6    6
+fff9    5
+fffb    4
+fffe    4
+   1    3
+   3    2
+   5    0
+   6 ffff
+   7 fffe
+   8 fffe
+   8 fffd
+   8 fffd
+   8 fffc
+   7 fffd
+   6 fffc
+   5 fffd
+   4 fffd
+   3 ffff
+   2    0
+   1    1
+   0    2
+ffff    2
+fffd    3
+fffd    3
+fffc    3
+fffc    3
+fffb    3
+fffb    3
+fffb    3
+fffc    2
+fffb    1
+fffb    0
+fffa ffff
+fffb fffe
+fffa fffc
+fffa fffc
+fffa fffb
+fffa fffb
+fff8 fffa
+fff8 fffa
+fff7 fffa
+fff8 fffb
+fff7 fffa
+fff7 fffb
+fff7 fffb
+fff8 fffd
+fff8 fffe
+fff8 ffff
+fff8    0
+fff9    1
+fff8    2
+fff9    2
+fff9    3
+fffb    3
+fffb    3
+fffc    3
+fffc    3
+fffd    3
+fffc    3
+fffd    2
+fffd    2
+fffe    1
+fffd ffff
+fffe ffff
+fffe fffe
+ffff ffff
+fffe fffe
+ffff fffe
+ffff fffe
+   1 ffff
+   2 ffff
+   2    0
+   3    1
+   4    2
+   5    3
+   5    3
+   5    4
+   6    4
+   6    4
+   6    4
+   5    4
+   4    4
+   3    4
+   2    3
+   1    2
+ffff    1
+fffd ffff
+fffc fffe
+fffb fffd
+fffa fffd
+fff8 fffc
+fff7 fffb
+fff6 fffa
+fff7 fffa
+fff6 fff9
+fff7 fff9
+fff8 fff8
+fffa fff9
+fffb fff8
+fffd fff9
+fffe fff9
+   1 fffa
+   3 fff9
+   4 fffa
+   6 fffa
+   7 fffc
+   8 fffc
+   8 fffd
+   8 fffd
+   8 fffe
+   8 fffe
+   7 fffe
+   7 fffe
+   6 fffe
+   5 fffd
+   4 fffd
+   3 fffc
+   2 fffd
+   0 fffc
+ffff fffc
+fffe fffb
+ffff fffb
+fffe fffa
+ffff fffa
+ffff fff9
+   1 fffa
+   2 fff9
+   2 fffa
+   3 fffa
+   3 fffa
+   3 fff9
+   3 fff9
+   3 fff9
+   3 fffa
+   3 fff9
+   2 fffa
+   1 fffa
+   0 fffc
+fffe fffc
+fffd fffc
+fffb fffc
+fffb fffd
+fff9 fffc
+fff9 fffd
+fff8 fffd
+fff8 fffe
+fff7 fffd
+fff7 fffd
+fff7 fffc
+fff8 fffd
+fff8 fffc
+fff8 fffc
+fff8 fffb
+fff9 fffb
+fff8 fff9
+fff9 fff9
+fff9 fff8
+fffa fff8
+fff9 fff7
+fff9 fff6
+fff9 fff5
+fff9 fff5
+fff7 fff4
+fff7 fff4
+fff6 fff4
+fff7 fff5
+fff6 fff5
+fff6 fff5
+fff6 fff5
+fff8 fff6
+fff9 fff6
+fffa fff7
+fffb fff7
+fffd fff9
+fffe fff9

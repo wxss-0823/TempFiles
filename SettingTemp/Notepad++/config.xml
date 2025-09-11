@@ -24,16 +24,16 @@
     </FindHistory>
     <FileBrowser />
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="D:\usr\bin\JetBrains\PyCharm2025.2\plugins\python-ce\helpers\testResources\data\generator3\StatePassingGeneration\state_json_for_up_to_date_skeletons_retains_original_gen_version\after\sdk_skeletons\.state.json" />
-        <File filename="D:\home\env\python\anaconda3\Lib\site-packages\bokeh\_sri\0.1.0.json" />
-        <File filename="D:\home\env\python\anaconda3\Lib\site-packages\bokeh\_sri\0.11.1.json" />
-        <File filename="D:\home\wxss\GitProjects\Log\WorkLog\2025-nd\ComProtocol&amp;Architecture.md" />
-        <File filename="C:\Users\Wxss\Desktop\PullPushScript.sh" />
-        <File filename="C:\Users\Wxss\Desktop\N28CarrierConfig - Copy.sh" />
-        <File filename="D:\home\env\dosBox\DOSBox-0.74-3\DOSBox 0.74-3 Options.bat" />
-        <File filename="D:\home\wxss\GitProjects\Log\WorkLog\Shell\May2025\R2401-N1M-60W4C\SET_GATE_VOLTAGE.sh" />
-        <File filename="C:\Users\Wxss\AppData\Roaming\XYplorer\Panes\1\t\pane.ini" />
         <File filename="C:\Users\Wxss\AppData\Roaming\XYplorer\XYplorer.ini" />
+        <File filename="C:\Users\Wxss\.ssh\known_hosts" />
+        <File filename="D:\home\wxss\GitProjects\Log\WorkLog\Shell\May2025\R4C-N79N46\R4C-N79N46.sh" />
+        <File filename="D:\home\wxss\GitProjects\Log\WorkLog\Shell\May2025\R2401-N1M-60W4C\SET_GATE_VOLTAGE.sh" />
+        <File filename="D:\home\wxss\GitProjects\Log\WorkLog\Shell\May2025\R2401-N1M-60W4C\R2401-N1M-60W4C.sh" />
+        <File filename="D:\home\wxss\GitProjects\Log\WorkLog\Shell\May2025\R2401-N1M-60W4C\Isolation&amp;VSWR-Check.sh" />
+        <File filename="C:\Users\Wxss\Desktop\BBU&#x64CD;&#x4F5C;&#x8BF4;&#x660E;TX-N28-AST7.16(1).txt" />
+        <File filename="C:\Users\Wxss\Desktop\stm32g4.hex" />
+        <File filename="D:\home\wxss\GitProjects\Log\WorkLog\Shell\May2025\R2C6-N28-D\R2C6-N28-D.sh" />
+        <File filename="D:\home\wxss\GitProjects\Log\WorkLog\Shell\Cmn\902x_cmd.txt" />
     </History>
     <ProjectPanels>
         <ProjectPanel id="0" workSpaceFile="" />
@@ -51,10 +51,10 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="2" backspaceUnindent="no" />
-        <GUIConfig name="AppPosition" x="60" y="67" width="1021" height="725" isMaximized="no" />
+        <GUIConfig name="AppPosition" x="265" y="80" width="1021" height="725" isMaximized="no" />
         <GUIConfig name="FindWindowPosition" left="598" top="261" right="1231" bottom="619" isLessModeOn="no" />
         <GUIConfig name="FinderConfig" wrappedLines="no" purgeBeforeEverySearch="no" showOnlyOneEntryPerFoundLine="yes" />
-        <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20250906" autoUpdateMode="1">no</GUIConfig>
+        <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20250926" autoUpdateMode="1">no</GUIConfig>
         <GUIConfig name="Auto-detection">autoOld</GUIConfig>
         <GUIConfig name="CheckHistoryFiles">no</GUIConfig>
         <GUIConfig name="TrayIcon">0</GUIConfig>
