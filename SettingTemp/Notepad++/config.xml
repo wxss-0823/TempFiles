@@ -32,7 +32,6 @@
         <File filename="D:\home\wxss\GitProjects\Log\WorkLog\Shell\May2025\R2401-N1M-60W4C\Isolation&amp;VSWR-Check.sh" />
         <File filename="C:\Users\Wxss\Desktop\BBU&#x64CD;&#x4F5C;&#x8BF4;&#x660E;TX-N28-AST7.16(1).txt" />
         <File filename="C:\Users\Wxss\Desktop\stm32g4.hex" />
-        <File filename="D:\home\wxss\GitProjects\Log\WorkLog\Shell\May2025\R2C6-N28-D\R2C6-N28-D.sh" />
         <File filename="D:\home\wxss\GitProjects\Log\WorkLog\Shell\Cmn\902x_cmd.txt" />
     </History>
     <ProjectPanels>
@@ -51,7 +50,7 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="2" backspaceUnindent="no" />
-        <GUIConfig name="AppPosition" x="265" y="80" width="1021" height="725" isMaximized="no" />
+        <GUIConfig name="AppPosition" x="54" y="35" width="1021" height="725" isMaximized="yes" />
         <GUIConfig name="FindWindowPosition" left="598" top="261" right="1231" bottom="619" isLessModeOn="no" />
         <GUIConfig name="FinderConfig" wrappedLines="no" purgeBeforeEverySearch="no" showOnlyOneEntryPerFoundLine="yes" />
         <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20250926" autoUpdateMode="1">no</GUIConfig>
