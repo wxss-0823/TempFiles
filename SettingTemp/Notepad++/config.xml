@@ -24,7 +24,6 @@
     </FindHistory>
     <FileBrowser />
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="C:\Users\Wxss\AppData\Roaming\XYplorer\XYplorer.ini" />
         <File filename="C:\Users\Wxss\.ssh\known_hosts" />
         <File filename="D:\home\wxss\GitProjects\Log\WorkLog\Shell\May2025\R4C-N79N46\R4C-N79N46.sh" />
         <File filename="D:\home\wxss\GitProjects\Log\WorkLog\Shell\May2025\R2401-N1M-60W4C\SET_GATE_VOLTAGE.sh" />
@@ -33,6 +32,8 @@
         <File filename="C:\Users\Wxss\Desktop\BBU&#x64CD;&#x4F5C;&#x8BF4;&#x660E;TX-N28-AST7.16(1).txt" />
         <File filename="C:\Users\Wxss\Desktop\stm32g4.hex" />
         <File filename="D:\home\wxss\GitProjects\Log\WorkLog\Shell\Cmn\902x_cmd.txt" />
+        <File filename="D:\home\wxss\GitProject\TempFiles\SettingTemp\Notepad++\config.xml" />
+        <File filename="D:\setup.log" />
     </History>
     <ProjectPanels>
         <ProjectPanel id="0" workSpaceFile="" />
@@ -53,7 +54,7 @@
         <GUIConfig name="AppPosition" x="814" y="292" width="1302" height="981" isMaximized="no" />
         <GUIConfig name="FindWindowPosition" left="598" top="261" right="1231" bottom="619" isLessModeOn="no" />
         <GUIConfig name="FinderConfig" wrappedLines="no" purgeBeforeEverySearch="no" showOnlyOneEntryPerFoundLine="yes" />
-        <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20250926" autoUpdateMode="1">no</GUIConfig>
+        <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20251230" autoUpdateMode="1">no</GUIConfig>
         <GUIConfig name="Auto-detection">autoOld</GUIConfig>
         <GUIConfig name="CheckHistoryFiles">no</GUIConfig>
         <GUIConfig name="TrayIcon">0</GUIConfig>
